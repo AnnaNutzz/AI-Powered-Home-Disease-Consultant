@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>AI Home Disease Consultant — Step 1</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="page">
+    <header class="hero">
+      <div class="hero-inner">
+        <h1>AI Home Disease Consultant</h1>
+        <p class="subtitle">Describe symptoms — we'll ask follow-ups to refine the diagnosis.</p>
+      </div>
+    </header>
+
+    <main class="container">
+      <form action="/predict" method="POST" class="form-card">
+        <label for="symptoms">Describe your symptoms freely</label>
+        <textarea id="symptoms" name="symptoms" required rows="4" placeholder="e.g., under the tummy pain, knees hurt, head hurts"></textarea>
+
+        <div class="row">
+          <div class="col">
+            <label for="age">Age</label>
+            <input id="age" name="age" type="number" min="0" max="120" placeholder="e.g., 23">
+          </div>
+
+          <div class="col">
+            <label for="weight">Weight (kg)</label>
+            <input id="weight" name="weight" type="number" min="0" max="300" placeholder="e.g., 62">
+          </div>
+        </div>
+
+        <label for="smoker">Smoker?</label>
+        <select id="smoker" name="smoker" required>
+          <option>No</option>
+          <option>Yes</option>
+        </select>
+
+        <button type="submit" class="btn">Continue — ask follow-ups</button>
+        <p class="note">This is for educational/informational use only, not a substitute for medical care.</p>
+      </form>
+    </main>
+  </div>
+</body>
+</html>

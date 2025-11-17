@@ -1,0 +1,300 @@
+Age,Smoker,Meds,Weight,Food consumed,Weather,Alcohol,Fruit consumed,Symptoms,Diesase,Meds Count,Meds 1,Meds 2,Symptoms count,Symptom 1,Symptom 2,Symptom 3,Symptom 4
+14,TRUE,"Ibuprofen, Antacid",106,Healthy/Balanced,Cloudy,FALSE,TRUE,"Chest pain, Blurred vision",Conjunctivitis (Pink Eye),2,Ibuprofen,Antacid,2,Chest pain,Blurred vision,,
+56,FALSE,"Antacid, Antacid",49,Greasy,Sunny,FALSE,FALSE,"Itching, Abdominal pain, Nausea, Dizziness",Migraine,2,Antacid,Antacid,4,Itching,Abdominal pain,Nausea,Dizziness
+42,FALSE,Antacid,,Carbs,Rainy,TRUE,TRUE,"Diarrhea, Fever, Bloating, Chills",Eczema,1,Antacid,,5,Diarrhea,Fever,Bloating,Chills
+30,FALSE,None,105,Spicy,Sunny,FALSE,FALSE,"Fever, Nausea, Diarrhea",Flu,0,,,3,Fever,Nausea,Diarrhea,
+37,FALSE,Loratadine,53,Healthy/Balanced,Sunny,FALSE,FALSE,"Chest pain, Fatigue, Rash, Bloating",Bronchitis,1,Loratadine,,4,Chest pain,Fatigue,Rash,Bloating
+35,FALSE,None,29,Healthy/Balanced,Windy,TRUE,FALSE,"Chills, Nausea, Chills, Diarrhea",Tension Headache,0,,,4,Chills,Nausea,Chills,Diarrhea
+62,FALSE,"Loperamide, Vitamin C",,Healthy/Balanced,Foggy,FALSE,FALSE,"Vomiting, Rash",Tension Headache,2,Loperamide,Vitamin C,2,Vomiting,Rash,,
+53,FALSE,Loratadine,101,Sweet,Foggy,FALSE,FALSE,"Stuffy nose, Shortness of breath, Diarrhea, Chest pain",Sinusitis (Sinus Infection),1,Loratadine,,5,Stuffy nose,Shortness of breath,Diarrhea,Chest pain
+8,FALSE,Paracetamol,,Sweet,Cloudy,FALSE,TRUE,"Blurred vision, Bloating, Body aches, Diarrhea",Flu,1,Paracetamol,,5,Blurred vision,Bloating,Body aches,Diarrhea
+32,FALSE,"Antacid, Loperamide",85,Spicy,Cloudy,TRUE,FALSE,"Itching, Rash, Diarrhea, Chest pain",Conjunctivitis (Pink Eye),2,Antacid,Loperamide,4,Itching,Rash,Diarrhea,Chest pain
+34,TRUE,Ibuprofen,38,Salty,Windy,FALSE,TRUE,"Abdominal pain, Cough, Fatigue, Runny nose",Food Poisoning,1,Ibuprofen,,4,Abdominal pain,Cough,Fatigue,Runny nose
+26,TRUE,"Loperamide, None",95,Healthy/Balanced,Windy,TRUE,TRUE,"Cough, Heartburn, Shortness of breath",Migraine,2,Loperamide,None,3,Cough,Heartburn,Shortness of breath,
+11,FALSE,Dextromethorphan,70,Healthy/Balanced,Snowy,TRUE,FALSE,"Runny nose, Diarrhea, Headache, Chest pain",Tension Headache,1,Dextromethorphan,,5,Runny nose,Diarrhea,Headache,Chest pain
+8,FALSE,Aspirin,78,Sweet,Cloudy,TRUE,TRUE,"Sore throat, Chills",Sinusitis (Sinus Infection),1,Aspirin,,2,Sore throat,Chills,,
+53,TRUE,Dextromethorphan,59,Salty,Cloudy,TRUE,TRUE,"Sore throat, Runny nose, Abdominal pain",Acid Reflux (GERD),1,Dextromethorphan,,3,Sore throat,Runny nose,Abdominal pain,
+53,FALSE,"Ibuprofen, Paracetamol",104,Healthy/Balanced,Cloudy,TRUE,FALSE,"Nausea, Chills",Gastroenteritis (Stomach Flu),2,Ibuprofen,Paracetamol,2,Nausea,Chills,,
+77,FALSE,None,33,Healthy/Balanced,Snowy,TRUE,TRUE,"Blurred vision, Cough, Bloating",Acid Reflux (GERD),0,,,3,Blurred vision,Cough,Bloating,
+42,TRUE,"Aspirin, Paracetamol",,Carbs,Windy,TRUE,FALSE,"Runny nose, Rash",Flu,2,Aspirin,Paracetamol,2,Runny nose,Rash,,
+45,TRUE,Paracetamol,72,Sweet,Sunny,TRUE,FALSE,"Blurred vision, Stomach cramps, Itching, Abdominal pain",Muscle Strain,1,Paracetamol,,5,Blurred vision,Stomach cramps,Itching,Abdominal pain
+78,FALSE,None,75,Sweet,Sunny,FALSE,FALSE,"Itching, Nausea",Food Poisoning,0,,,2,Itching,Nausea,,
+34,FALSE,Dextromethorphan,68,Healthy/Balanced,Foggy,FALSE,FALSE,"Nausea, Headache, Itching, Body aches",Tension Headache,1,Dextromethorphan,,5,Nausea,Headache,Itching,Body aches
+66,TRUE,Paracetamol,90,Greasy,Sunny,TRUE,TRUE,"Heartburn, Cough, Nausea, Vomiting",Gastroenteritis (Stomach Flu),1,Paracetamol,,5,Heartburn,Cough,Nausea,Vomiting
+14,FALSE,None,,Salty,Windy,TRUE,TRUE,"Blurred vision, Vomiting, Body aches, Sore throat",Gastroenteritis (Stomach Flu),0,,,4,Blurred vision,Vomiting,Body aches,Sore throat
+17,FALSE,"None, Loperamide",,Spicy,Snowy,FALSE,TRUE,"Stuffy nose, Headache, Body aches, Runny nose",Food Poisoning,2,None,Loperamide,4,Stuffy nose,Headache,Body aches,Runny nose
+11,FALSE,"Antacid, None",,Greasy,Snowy,TRUE,TRUE,"Rash, Chills, Diarrhea, Stomach cramps",Acid Reflux (GERD),2,Antacid,None,4,Rash,Chills,Diarrhea,Stomach cramps
+75,FALSE,Loperamide,106,Sweet,Snowy,FALSE,TRUE,"Rash, Chest pain, Shortness of breath, Cough",Eczema,1,Loperamide,,4,Rash,Chest pain,Shortness of breath,Cough
+62,FALSE,Vitamin C,91,Carbs,Sunny,FALSE,TRUE,"Bloating, Shortness of breath",Eczema,1,Vitamin C,,2,Bloating,Shortness of breath,,
+74,TRUE,"Loperamide, None",72,Healthy/Balanced,Foggy,TRUE,TRUE,"Stomach cramps, Stuffy nose",Urinary Tract Infection (UTI),2,Loperamide,None,2,Stomach cramps,Stuffy nose,,
+57,TRUE,None,37,Salty,Snowy,FALSE,FALSE,"Stomach cramps, Rash, Rash, Chest pain",Allergy,0,,,5,Stomach cramps,Rash,Rash,Chest pain
+56,FALSE,"Aspirin, Paracetamol",,Sweet,Snowy,FALSE,TRUE,"Sore throat, Nausea, Chills",Muscle Strain,2,Aspirin,Paracetamol,3,Sore throat,Nausea,Chills,
+52,FALSE,Dextromethorphan,34,Greasy,Rainy,TRUE,TRUE,"Nausea, Bloating, Body aches",Migraine,1,Dextromethorphan,,3,Nausea,Bloating,Body aches,
+73,FALSE,"Paracetamol, Loratadine",,Carbs,Sunny,FALSE,TRUE,"Vomiting, Heartburn",Flu,2,Paracetamol,Loratadine,2,Vomiting,Heartburn,,
+20,FALSE,"Loratadine, Vitamin C",78,Greasy,Cloudy,FALSE,TRUE,"Abdominal pain, Nausea, Vomiting",Tension Headache,2,Loratadine,Vitamin C,3,Abdominal pain,Nausea,Vomiting,
+49,FALSE,Paracetamol,64,Greasy,Rainy,TRUE,TRUE,"Vomiting, Headache",Urinary Tract Infection (UTI),1,Paracetamol,,2,Vomiting,Headache,,
+61,FALSE,None,106,Healthy/Balanced,Sunny,TRUE,TRUE,"Sore throat, Chest pain, Chills, Itching",Bronchitis,0,,,5,Sore throat,Chest pain,Chills,Itching
+6,TRUE,Antacid,99,Sweet,Foggy,FALSE,FALSE,"Fatigue, Abdominal pain",Migraine,1,Antacid,,2,Fatigue,Abdominal pain,,
+30,TRUE,None,56,Carbs,Foggy,TRUE,TRUE,"Vomiting, Body aches, Stomach cramps, Itching",Sinusitis (Sinus Infection),0,,,4,Vomiting,Body aches,Stomach cramps,Itching
+78,FALSE,"Paracetamol, Aspirin",,Sweet,Sunny,TRUE,FALSE,"Itching, Runny nose, Blurred vision, Vomiting",Flu,2,Paracetamol,Aspirin,5,Itching,Runny nose,Blurred vision,Vomiting
+6,FALSE,Paracetamol,57,Carbs,Cloudy,TRUE,TRUE,"Heartburn, Sore throat, Sore throat",Tension Headache,1,Paracetamol,,3,Heartburn,Sore throat,Sore throat,
+14,FALSE,"None, Ibuprofen",78,Sweet,Foggy,TRUE,FALSE,"Blurred vision, Runny nose, Chest pain, Chest pain",Urinary Tract Infection (UTI),2,None,Ibuprofen,5,Blurred vision,Runny nose,Chest pain,Chest pain
+17,FALSE,Antacid,58,Sweet,Windy,FALSE,FALSE,"Diarrhea, Itching",Flu,1,Antacid,,2,Diarrhea,Itching,,
+31,FALSE,None,24,Salty,Rainy,FALSE,TRUE,"Itching, Diarrhea",Gastroenteritis (Stomach Flu),0,,,2,Itching,Diarrhea,,
+67,FALSE,"Paracetamol, Dextromethorphan",109,Greasy,Foggy,TRUE,FALSE,"Heartburn, Blurred vision, Runny nose",Tension Headache,2,Paracetamol,Dextromethorphan,3,Heartburn,Blurred vision,Runny nose,
+64,FALSE,None,86,Carbs,Rainy,TRUE,TRUE,"Cough, Runny nose, Stomach cramps",Bronchitis,0,,,3,Cough,Runny nose,Stomach cramps,
+69,TRUE,None,,Sweet,Snowy,FALSE,TRUE,"Runny nose, Shortness of breath, Shortness of breath, Body aches",Insomnia,0,,,5,Runny nose,Shortness of breath,Shortness of breath,Body aches
+7,TRUE,None,84,Salty,Rainy,FALSE,TRUE,"Chills, Stuffy nose, Shortness of breath, Stomach cramps",Common Cold,0,,,4,Chills,Stuffy nose,Shortness of breath,Stomach cramps
+52,FALSE,"Dextromethorphan, Loratadine",,Sweet,Sunny,TRUE,TRUE,"Rash, Rash, Abdominal pain, Nausea",Sinusitis (Sinus Infection),2,Dextromethorphan,Loratadine,4,Rash,Rash,Abdominal pain,Nausea
+34,FALSE,"Dextromethorphan, Dextromethorphan",31,Salty,Cloudy,TRUE,TRUE,"Shortness of breath, Runny nose, Shortness of breath",Gastroenteritis (Stomach Flu),2,Dextromethorphan,Dextromethorphan,3,Shortness of breath,Runny nose,Shortness of breath,
+40,TRUE,"Loratadine, Antacid",45,Carbs,Rainy,TRUE,TRUE,"Shortness of breath, Fever, Diarrhea, Body aches",Common Cold,2,Loratadine,Antacid,4,Shortness of breath,Fever,Diarrhea,Body aches
+8,FALSE,Vitamin C,90,Carbs,Foggy,TRUE,TRUE,"Runny nose, Nausea, Fever, Sore throat",Muscle Strain,1,Vitamin C,,4,Runny nose,Nausea,Fever,Sore throat
+38,FALSE,Paracetamol,,Sweet,Sunny,TRUE,TRUE,"Fever, Dizziness, Nausea, Diarrhea",Acid Reflux (GERD),1,Paracetamol,,5,Fever,Dizziness,Nausea,Diarrhea
+69,FALSE,"Loperamide, Loratadine",,Healthy/Balanced,Snowy,FALSE,TRUE,"Sore throat, Itching, Headache, Heartburn",Conjunctivitis (Pink Eye),2,Loperamide,Loratadine,4,Sore throat,Itching,Headache,Heartburn
+10,FALSE,"Vitamin C, None",,Spicy,Cloudy,FALSE,FALSE,"Abdominal pain, Fatigue, Nausea, Body aches",Muscle Strain,2,Vitamin C,None,4,Abdominal pain,Fatigue,Nausea,Body aches
+18,FALSE,"Antacid, Dextromethorphan",,Healthy/Balanced,Foggy,FALSE,TRUE,"Blurred vision, Chills, Cough",Insomnia,2,Antacid,Dextromethorphan,3,Blurred vision,Chills,Cough,
+68,FALSE,None,,Greasy,Rainy,TRUE,TRUE,"Nausea, Diarrhea, Body aches, Chills",Flu,0,,,5,Nausea,Diarrhea,Body aches,Chills
+7,FALSE,Paracetamol,,Spicy,Sunny,TRUE,TRUE,"Fever, Stomach cramps, Headache, Chest pain",Allergy,1,Paracetamol,,5,Fever,Stomach cramps,Headache,Chest pain
+14,TRUE,Aspirin,,Greasy,Snowy,TRUE,FALSE,"Abdominal pain, Runny nose",Food Poisoning,1,Aspirin,,2,Abdominal pain,Runny nose,,
+14,TRUE,"Loratadine, None",57,Spicy,Rainy,TRUE,TRUE,"Sore throat, Diarrhea, Itching",Eczema,2,Loratadine,None,3,Sore throat,Diarrhea,Itching,
+18,FALSE,None,,Spicy,Rainy,FALSE,FALSE,"Runny nose, Heartburn",Insomnia,1,None,,2,Runny nose,Heartburn,,
+30,FALSE,Ibuprofen,45,Healthy/Balanced,Foggy,FALSE,FALSE,"Blurred vision, Abdominal pain, Runny nose, Sore throat",Sinusitis (Sinus Infection),1,Ibuprofen,,4,Blurred vision,Abdominal pain,Runny nose,Sore throat
+18,FALSE,"Dextromethorphan, Vitamin C",54,Greasy,Foggy,FALSE,TRUE,"Runny nose, Dizziness, Rash, Body aches",Sinusitis (Sinus Infection),2,Dextromethorphan,Vitamin C,4,Runny nose,Dizziness,Rash,Body aches
+12,FALSE,"Dextromethorphan, Vitamin C",30,Salty,Snowy,TRUE,TRUE,"Rash, Heartburn, Abdominal pain, Shortness of breath",Acid Reflux (GERD),2,Dextromethorphan,Vitamin C,4,Rash,Heartburn,Abdominal pain,Shortness of breath
+79,FALSE,None,72,Greasy,Sunny,FALSE,FALSE,"Vomiting, Stuffy nose",Allergy,0,,,2,Vomiting,Stuffy nose,,
+71,FALSE,Ibuprofen,78,Spicy,Cloudy,TRUE,TRUE,"Nausea, Diarrhea",Eczema,1,Ibuprofen,,2,Nausea,Diarrhea,,
+5,FALSE,None,38,Carbs,Rainy,TRUE,FALSE,"Runny nose, Cough, Headache, Rash",Acid Reflux (GERD),0,,,5,Runny nose,Cough,Headache,Rash
+11,TRUE,Dextromethorphan,33,Sweet,Rainy,TRUE,FALSE,"Chills, Shortness of breath",Tension Headache,1,Dextromethorphan,,2,Chills,Shortness of breath,,
+31,TRUE,None,88,Healthy/Balanced,Windy,FALSE,TRUE,"Sore throat, Heartburn, Chills",Flu,1,None,,3,Sore throat,Heartburn,Chills,
+68,FALSE,None,107,Sweet,Snowy,FALSE,FALSE,"Stomach cramps, Sore throat",Flu,0,,,2,Stomach cramps,Sore throat,,
+24,TRUE,None,24,Healthy/Balanced,Windy,FALSE,FALSE,"Abdominal pain, Body aches, Stuffy nose, Vomiting",Bronchitis,0,,,4,Abdominal pain,Body aches,Stuffy nose,Vomiting
+45,FALSE,"Loperamide, Vitamin C",,Salty,Snowy,FALSE,FALSE,"Abdominal pain, Blurred vision, Itching, Itching",Acid Reflux (GERD),2,Loperamide,Vitamin C,5,Abdominal pain,Blurred vision,Itching,Itching
+17,TRUE,"Vitamin C, Aspirin",54,Carbs,Foggy,FALSE,FALSE,"Cough, Cough, Chills, Itching",Allergy,2,Vitamin C,Aspirin,5,Cough,Cough,Chills,Itching
+20,FALSE,None,73,Greasy,Foggy,FALSE,TRUE,"Headache, Sore throat",Bronchitis,0,,,2,Headache,Sore throat,,
+48,FALSE,None,91,Spicy,Windy,TRUE,FALSE,"Chest pain, Vomiting",Food Poisoning,0,,,2,Chest pain,Vomiting,,
+51,TRUE,None,22,Sweet,Sunny,FALSE,FALSE,"Headache, Dizziness, Fever",Urinary Tract Infection (UTI),0,,,3,Headache,Dizziness,Fever,
+75,FALSE,Paracetamol,38,Salty,Sunny,TRUE,TRUE,"Rash, Cough",Food Poisoning,1,Paracetamol,,2,Rash,Cough,,
+80,FALSE,Vitamin C,76,Spicy,Foggy,TRUE,FALSE,"Vomiting, Shortness of breath",Gastroenteritis (Stomach Flu),1,Vitamin C,,2,Vomiting,Shortness of breath,,
+15,TRUE,None,56,Salty,Windy,TRUE,TRUE,"Chest pain, Fatigue, Fever, Nausea",Sinusitis (Sinus Infection),0,,,4,Chest pain,Fatigue,Fever,Nausea
+48,FALSE,None,60,Greasy,Snowy,FALSE,TRUE,"Shortness of breath, Shortness of breath, Runny nose",Allergy,1,None,,3,Shortness of breath,Shortness of breath,Runny nose,
+31,TRUE,"Antacid, Loratadine",102,Healthy/Balanced,Rainy,FALSE,FALSE,"Bloating, Vomiting",Acid Reflux (GERD),2,Antacid,Loratadine,2,Bloating,Vomiting,,
+74,TRUE,"Loperamide, Vitamin C",65,Healthy/Balanced,Windy,FALSE,TRUE,"Nausea, Nausea",Sinusitis (Sinus Infection),2,Loperamide,Vitamin C,2,Nausea,Nausea,,
+57,FALSE,Ibuprofen,94,Greasy,Rainy,FALSE,TRUE,"Runny nose, Sore throat",Bronchitis,1,Ibuprofen,,2,Runny nose,Sore throat,,
+7,FALSE,"Loratadine, Aspirin",109,Carbs,Foggy,FALSE,TRUE,"Abdominal pain, Runny nose",Allergy,2,Loratadine,Aspirin,2,Abdominal pain,Runny nose,,
+24,FALSE,"None, Antacid",,Spicy,Rainy,FALSE,TRUE,"Nausea, Rash, Blurred vision, Abdominal pain",Migraine,2,None,Antacid,5,Nausea,Rash,Blurred vision,Abdominal pain
+64,TRUE,"Loratadine, Loratadine",72,Sweet,Sunny,TRUE,FALSE,"Heartburn, Bloating, Dizziness, Stomach cramps",Muscle Strain,2,Loratadine,Loratadine,4,Heartburn,Bloating,Dizziness,Stomach cramps
+59,FALSE,None,,Salty,Cloudy,TRUE,FALSE,"Itching, Blurred vision, Chills, Dizziness",Acid Reflux (GERD),0,,,4,Itching,Blurred vision,Chills,Dizziness
+15,FALSE,Aspirin,,Sweet,Rainy,FALSE,FALSE,"Rash, Diarrhea, Itching",Eczema,1,Aspirin,,3,Rash,Diarrhea,Itching,
+63,FALSE,None,,Healthy/Balanced,Sunny,FALSE,FALSE,"Heartburn, Sore throat",Conjunctivitis (Pink Eye),0,,,2,Heartburn,Sore throat,,
+42,FALSE,Dextromethorphan,72,Carbs,Rainy,TRUE,FALSE,"Nausea, Runny nose, Body aches, Cough",Conjunctivitis (Pink Eye),1,Dextromethorphan,,5,Nausea,Runny nose,Body aches,Cough
+64,FALSE,Antacid,21,Carbs,Sunny,FALSE,FALSE,"Chills, Rash, Headache, Blurred vision",Tension Headache,1,Antacid,,5,Chills,Rash,Headache,Blurred vision
+62,TRUE,Ibuprofen,49,Spicy,Sunny,TRUE,TRUE,"Blurred vision, Fever, Chills, Bloating",Acid Reflux (GERD),1,Ibuprofen,,5,Blurred vision,Fever,Chills,Bloating
+54,FALSE,"Dextromethorphan, Dextromethorphan",48,Carbs,Rainy,TRUE,FALSE,"Shortness of breath, Vomiting, Heartburn, Cough",Eczema,2,Dextromethorphan,Dextromethorphan,4,Shortness of breath,Vomiting,Heartburn,Cough
+19,FALSE,"Loratadine, Paracetamol",28,Sweet,Sunny,TRUE,FALSE,"Chills, Bloating, Bloating",Migraine,2,Loratadine,Paracetamol,3,Chills,Bloating,Bloating,
+51,FALSE,"Vitamin C, Aspirin",52,Salty,Foggy,FALSE,FALSE,"Body aches, Dizziness, Sore throat, Shortness of breath",Conjunctivitis (Pink Eye),2,Vitamin C,Aspirin,4,Body aches,Dizziness,Sore throat,Shortness of breath
+51,FALSE,"None, None",20,Spicy,Foggy,FALSE,TRUE,"Diarrhea, Diarrhea, Rash",Food Poisoning,2,None,None,3,Diarrhea,Diarrhea,Rash,
+37,FALSE,Antacid,,Carbs,Cloudy,FALSE,TRUE,"Bloating, Stomach cramps, Sore throat",Sinusitis (Sinus Infection),1,Antacid,,3,Bloating,Stomach cramps,Sore throat,
+75,FALSE,Aspirin,,Greasy,Sunny,TRUE,FALSE,"Stuffy nose, Stuffy nose, Stomach cramps",Eczema,1,Aspirin,,3,Stuffy nose,Stuffy nose,Stomach cramps,
+49,FALSE,Aspirin,95,Greasy,Snowy,FALSE,TRUE,"Nausea, Fever, Chills, Diarrhea",Eczema,1,Aspirin,,5,Nausea,Fever,Chills,Diarrhea
+42,TRUE,Antacid,29,Salty,Foggy,TRUE,TRUE,"Runny nose, Chest pain",Tension Headache,1,Antacid,,2,Runny nose,Chest pain,,
+80,FALSE,"Antacid, Dextromethorphan",58,Spicy,Snowy,TRUE,TRUE,"Fatigue, Itching, Chills, Cough",Insomnia,2,Antacid,Dextromethorphan,5,Fatigue,Itching,Chills,Cough
+74,TRUE,None,90,Spicy,Cloudy,TRUE,TRUE,"Stuffy nose, Itching",Eczema,0,,,2,Stuffy nose,Itching,,
+11,FALSE,Paracetamol,,Salty,Snowy,TRUE,TRUE,"Itching, Vomiting",Acid Reflux (GERD),1,Paracetamol,,2,Itching,Vomiting,,
+17,TRUE,"Antacid, Dextromethorphan",,Greasy,Windy,TRUE,FALSE,"Stuffy nose, Shortness of breath, Stuffy nose",Acid Reflux (GERD),2,Antacid,Dextromethorphan,3,Stuffy nose,Shortness of breath,Stuffy nose,
+43,TRUE,Dextromethorphan,80,Greasy,Snowy,TRUE,TRUE,"Chest pain, Dizziness, Bloating",Urinary Tract Infection (UTI),1,Dextromethorphan,,3,Chest pain,Dizziness,Bloating,
+20,FALSE,"Loratadine, Loratadine",,Greasy,Sunny,TRUE,FALSE,"Fever, Stuffy nose, Sore throat",Urinary Tract Infection (UTI),2,Loratadine,Loratadine,3,Fever,Stuffy nose,Sore throat,
+34,TRUE,"Loratadine, Loperamide",,Carbs,Sunny,FALSE,FALSE,"Dizziness, Itching",Insomnia,2,Loratadine,Loperamide,2,Dizziness,Itching,,
+42,TRUE,"Ibuprofen, Antacid",,Healthy/Balanced,Rainy,FALSE,FALSE,"Stuffy nose, Stuffy nose, Vomiting, Abdominal pain",Allergy,2,Ibuprofen,Antacid,5,Stuffy nose,Stuffy nose,Vomiting,Abdominal pain
+73,TRUE,Loratadine,75,Sweet,Rainy,TRUE,FALSE,"Stomach cramps, Stuffy nose, Headache, Chest pain",Migraine,1,Loratadine,,5,Stomach cramps,Stuffy nose,Headache,Chest pain
+8,TRUE,Loperamide,83,Sweet,Foggy,FALSE,TRUE,"Dizziness, Cough",Food Poisoning,1,Loperamide,,2,Dizziness,Cough,,
+73,FALSE,None,53,Carbs,Cloudy,FALSE,TRUE,"Body aches, Itching, Stomach cramps, Blurred vision",Common Cold,0,,,5,Body aches,Itching,Stomach cramps,Blurred vision
+69,TRUE,Dextromethorphan,107,Healthy/Balanced,Rainy,TRUE,TRUE,"Chills, Heartburn, Fatigue, Vomiting",Conjunctivitis (Pink Eye),1,Dextromethorphan,,5,Chills,Heartburn,Fatigue,Vomiting
+53,FALSE,"Vitamin C, Paracetamol",53,Healthy/Balanced,Windy,TRUE,TRUE,"Diarrhea, Chest pain, Blurred vision",Migraine,2,Vitamin C,Paracetamol,3,Diarrhea,Chest pain,Blurred vision,
+48,FALSE,Vitamin C,63,Greasy,Rainy,TRUE,TRUE,"Vomiting, Dizziness, Headache, Chills",Migraine,1,Vitamin C,,4,Vomiting,Dizziness,Headache,Chills
+32,TRUE,"Vitamin C, Vitamin C",,Spicy,Foggy,FALSE,FALSE,"Heartburn, Chest pain",Sinusitis (Sinus Infection),2,Vitamin C,Vitamin C,2,Heartburn,Chest pain,,
+33,FALSE,"Dextromethorphan, None",101,Carbs,Windy,FALSE,TRUE,"Chest pain, Stomach cramps",Urinary Tract Infection (UTI),2,Dextromethorphan,None,2,Chest pain,Stomach cramps,,
+10,TRUE,None,50,Carbs,Foggy,TRUE,FALSE,"Vomiting, Dizziness",Migraine,0,,,2,Vomiting,Dizziness,,
+8,TRUE,"Loperamide, Dextromethorphan",75,Salty,Foggy,FALSE,TRUE,"Nausea, Headache, Abdominal pain",Flu,2,Loperamide,Dextromethorphan,3,Nausea,Headache,Abdominal pain,
+69,TRUE,"Dextromethorphan, None",103,Spicy,Sunny,TRUE,TRUE,"Rash, Body aches",Flu,2,Dextromethorphan,None,2,Rash,Body aches,,
+21,FALSE,None,106,Sweet,Snowy,TRUE,TRUE,"Stuffy nose, Rash, Headache, Fatigue",Bronchitis,0,,,5,Stuffy nose,Rash,Headache,Fatigue
+50,FALSE,"Antacid, Loratadine",68,Greasy,Cloudy,FALSE,FALSE,"Chest pain, Nausea",Flu,2,Antacid,Loratadine,2,Chest pain,Nausea,,
+64,TRUE,None,45,Salty,Windy,FALSE,FALSE,"Bloating, Chest pain",Gastroenteritis (Stomach Flu),1,None,,2,Bloating,Chest pain,,
+31,TRUE,"Dextromethorphan, None",58,Carbs,Sunny,FALSE,FALSE,"Fatigue, Blurred vision",Bronchitis,2,Dextromethorphan,None,2,Fatigue,Blurred vision,,
+76,TRUE,None,,Salty,Foggy,FALSE,TRUE,"Stomach cramps, Abdominal pain, Diarrhea, Chills",Food Poisoning,0,,,5,Stomach cramps,Abdominal pain,Diarrhea,Chills
+64,FALSE,None,81,Greasy,Windy,FALSE,FALSE,"Abdominal pain, Sore throat, Stuffy nose, Headache",Gastroenteritis (Stomach Flu),0,,,4,Abdominal pain,Sore throat,Stuffy nose,Headache
+40,FALSE,Antacid,,Spicy,Rainy,FALSE,TRUE,"Stomach cramps, Cough",Urinary Tract Infection (UTI),1,Antacid,,2,Stomach cramps,Cough,,
+56,TRUE,Ibuprofen,83,Carbs,Windy,TRUE,TRUE,"Stomach cramps, Cough, Diarrhea",Gastroenteritis (Stomach Flu),1,Ibuprofen,,3,Stomach cramps,Cough,Diarrhea,
+74,FALSE,Loperamide,86,Sweet,Foggy,TRUE,TRUE,"Heartburn, Stuffy nose, Stomach cramps, Shortness of breath",Gastroenteritis (Stomach Flu),1,Loperamide,,4,Heartburn,Stuffy nose,Stomach cramps,Shortness of breath
+56,FALSE,"Vitamin C, Loperamide",28,Salty,Rainy,FALSE,FALSE,"Shortness of breath, Heartburn, Fever",Flu,2,Vitamin C,Loperamide,3,Shortness of breath,Heartburn,Fever,
+24,FALSE,None,107,Sweet,Snowy,FALSE,TRUE,"Sore throat, Rash, Fatigue",Tension Headache,0,,,3,Sore throat,Rash,Fatigue,
+32,FALSE,None,67,Greasy,Foggy,FALSE,TRUE,"Fatigue, Diarrhea",Allergy,0,,,2,Fatigue,Diarrhea,,
+17,FALSE,Loperamide,39,Sweet,Snowy,FALSE,TRUE,"Body aches, Cough, Headache",Migraine,1,Loperamide,,3,Body aches,Cough,Headache,
+66,FALSE,None,,Healthy/Balanced,Cloudy,FALSE,FALSE,"Vomiting, Body aches, Stuffy nose, Vomiting",Flu,0,,,5,Vomiting,Body aches,Stuffy nose,Vomiting
+20,FALSE,None,100,Sweet,Cloudy,TRUE,FALSE,"Body aches, Body aches, Itching, Stuffy nose",Sinusitis (Sinus Infection),0,,,5,Body aches,Body aches,Itching,Stuffy nose
+50,TRUE,"Aspirin, Antacid",79,Healthy/Balanced,Windy,TRUE,FALSE,"Vomiting, Heartburn, Fever, Dizziness",Flu,2,Aspirin,Antacid,5,Vomiting,Heartburn,Fever,Dizziness
+63,FALSE,None,92,Sweet,Snowy,FALSE,TRUE,"Rash, Nausea",Tension Headache,0,,,2,Rash,Nausea,,
+76,FALSE,"None, Aspirin",70,Salty,Sunny,TRUE,FALSE,"Runny nose, Dizziness, Stuffy nose",Acid Reflux (GERD),2,None,Aspirin,3,Runny nose,Dizziness,Stuffy nose,
+50,TRUE,None,54,Salty,Foggy,TRUE,TRUE,"Heartburn, Rash, Runny nose, Chills",Gastroenteritis (Stomach Flu),0,,,4,Heartburn,Rash,Runny nose,Chills
+49,TRUE,"None, Antacid",55,Carbs,Sunny,FALSE,TRUE,"Vomiting, Heartburn, Rash, Shortness of breath",Common Cold,2,None,Antacid,4,Vomiting,Heartburn,Rash,Shortness of breath
+29,FALSE,Dextromethorphan,89,Healthy/Balanced,Windy,TRUE,TRUE,"Diarrhea, Itching, Nausea",Acid Reflux (GERD),1,Dextromethorphan,,3,Diarrhea,Itching,Nausea,
+11,FALSE,Paracetamol,,Spicy,Rainy,FALSE,TRUE,"Body aches, Headache, Shortness of breath, Stuffy nose",Tension Headache,1,Paracetamol,,4,Body aches,Headache,Shortness of breath,Stuffy nose
+13,FALSE,"None, Aspirin",108,Sweet,Rainy,TRUE,FALSE,"Blurred vision, Headache",Eczema,2,None,Aspirin,2,Blurred vision,Headache,,
+18,TRUE,"Ibuprofen, None",109,Sweet,Cloudy,FALSE,TRUE,"Shortness of breath, Dizziness",Eczema,2,Ibuprofen,None,2,Shortness of breath,Dizziness,,
+19,FALSE,None,22,Spicy,Foggy,FALSE,TRUE,"Itching, Body aches, Diarrhea",Tension Headache,0,,,3,Itching,Body aches,Diarrhea,
+14,FALSE,"Vitamin C, Loratadine",25,Greasy,Rainy,TRUE,FALSE,"Cough, Sore throat, Bloating",Muscle Strain,2,Vitamin C,Loratadine,3,Cough,Sore throat,Bloating,
+5,TRUE,Antacid,68,Sweet,Cloudy,FALSE,TRUE,"Shortness of breath, Blurred vision, Chest pain, Shortness of breath",Common Cold,1,Antacid,,4,Shortness of breath,Blurred vision,Chest pain,Shortness of breath
+44,TRUE,Loratadine,64,Spicy,Sunny,FALSE,TRUE,"Itching, Stuffy nose, Itching, Bloating",Bronchitis,1,Loratadine,,4,Itching,Stuffy nose,Itching,Bloating
+74,TRUE,"Paracetamol, Ibuprofen",20,Salty,Foggy,FALSE,TRUE,"Stomach cramps, Diarrhea",Tension Headache,2,Paracetamol,Ibuprofen,2,Stomach cramps,Diarrhea,,
+11,TRUE,Paracetamol,79,Carbs,Cloudy,FALSE,FALSE,"Fever, Bloating, Chills, Dizziness",Food Poisoning,1,Paracetamol,,4,Fever,Bloating,Chills,Dizziness
+40,TRUE,"None, Loratadine",55,Greasy,Rainy,FALSE,TRUE,"Diarrhea, Diarrhea, Stuffy nose",Conjunctivitis (Pink Eye),2,None,Loratadine,3,Diarrhea,Diarrhea,Stuffy nose,
+74,FALSE,Vitamin C,35,Carbs,Windy,FALSE,FALSE,"Fatigue, Bloating",Acid Reflux (GERD),1,Vitamin C,,2,Fatigue,Bloating,,
+70,FALSE,Ibuprofen,,Sweet,Cloudy,TRUE,TRUE,"Cough, Nausea, Abdominal pain, Shortness of breath",Food Poisoning,1,Ibuprofen,,4,Cough,Nausea,Abdominal pain,Shortness of breath
+59,TRUE,"Ibuprofen, Dextromethorphan",66,Healthy/Balanced,Rainy,TRUE,TRUE,"Shortness of breath, Blurred vision, Rash",Migraine,2,Ibuprofen,Dextromethorphan,3,Shortness of breath,Blurred vision,Rash,
+45,FALSE,"None, None",72,Spicy,Windy,FALSE,FALSE,"Rash, Chills, Sore throat, Runny nose",Muscle Strain,2,None,None,4,Rash,Chills,Sore throat,Runny nose
+68,FALSE,"Loratadine, None",24,Spicy,Cloudy,TRUE,FALSE,"Shortness of breath, Vomiting",Acid Reflux (GERD),2,Loratadine,None,2,Shortness of breath,Vomiting,,
+63,TRUE,None,78,Salty,Foggy,TRUE,TRUE,"Nausea, Bloating",Flu,0,,,2,Nausea,Bloating,,
+38,TRUE,Loperamide,67,Sweet,Snowy,TRUE,TRUE,"Chills, Fatigue, Chills, Rash",Urinary Tract Infection (UTI),1,Loperamide,,5,Chills,Fatigue,Chills,Rash
+47,TRUE,Aspirin,82,Healthy/Balanced,Rainy,TRUE,TRUE,"Abdominal pain, Body aches, Abdominal pain",Flu,1,Aspirin,,3,Abdominal pain,Body aches,Abdominal pain,
+27,TRUE,"Vitamin C, Loperamide",89,Greasy,Snowy,TRUE,TRUE,"Shortness of breath, Sore throat",Urinary Tract Infection (UTI),2,Vitamin C,Loperamide,2,Shortness of breath,Sore throat,,
+18,FALSE,"Paracetamol, None",98,Sweet,Snowy,TRUE,FALSE,"Vomiting, Stuffy nose",Bronchitis,2,Paracetamol,None,2,Vomiting,Stuffy nose,,
+62,TRUE,Vitamin C,56,Greasy,Sunny,TRUE,FALSE,"Runny nose, Headache, Fatigue, Itching",Eczema,1,Vitamin C,,5,Runny nose,Headache,Fatigue,Itching
+26,TRUE,None,77,Healthy/Balanced,Snowy,FALSE,TRUE,"Diarrhea, Stomach cramps, Chest pain, Vomiting",Migraine,0,,,4,Diarrhea,Stomach cramps,Chest pain,Vomiting
+65,TRUE,None,,Sweet,Snowy,TRUE,TRUE,"Bloating, Diarrhea, Headache, Headache",Flu,0,,,5,Bloating,Diarrhea,Headache,Headache
+48,TRUE,"None, Vitamin C",,Spicy,Sunny,FALSE,FALSE,"Bloating, Abdominal pain",Gastroenteritis (Stomach Flu),2,None,Vitamin C,2,Bloating,Abdominal pain,,
+45,FALSE,None,,Carbs,Windy,TRUE,TRUE,"Body aches, Heartburn, Shortness of breath, Chills",Muscle Strain,0,,,5,Body aches,Heartburn,Shortness of breath,Chills
+23,FALSE,"Vitamin C, Antacid",21,Sweet,Windy,FALSE,TRUE,"Sore throat, Sore throat, Chills",Muscle Strain,2,Vitamin C,Antacid,3,Sore throat,Sore throat,Chills,
+30,TRUE,Loperamide,31,Greasy,Snowy,TRUE,FALSE,"Chest pain, Chest pain, Sore throat, Sore throat",Tension Headache,1,Loperamide,,4,Chest pain,Chest pain,Sore throat,Sore throat
+61,TRUE,"Dextromethorphan, Paracetamol",,Spicy,Rainy,TRUE,FALSE,"Itching, Dizziness, Shortness of breath",Bronchitis,2,Dextromethorphan,Paracetamol,3,Itching,Dizziness,Shortness of breath,
+9,FALSE,Ibuprofen,110,Greasy,Foggy,FALSE,TRUE,"Rash, Vomiting, Blurred vision",Food Poisoning,1,Ibuprofen,,3,Rash,Vomiting,Blurred vision,
+63,TRUE,None,,Salty,Cloudy,FALSE,TRUE,"Headache, Vomiting, Diarrhea, Sore throat",Bronchitis,0,,,5,Headache,Vomiting,Diarrhea,Sore throat
+36,TRUE,None,40,Healthy/Balanced,Snowy,FALSE,FALSE,"Bloating, Blurred vision",Conjunctivitis (Pink Eye),0,,,2,Bloating,Blurred vision,,
+58,TRUE,None,,Spicy,Snowy,TRUE,TRUE,"Runny nose, Itching, Dizziness",Acid Reflux (GERD),0,,,3,Runny nose,Itching,Dizziness,
+6,TRUE,None,108,Healthy/Balanced,Foggy,FALSE,FALSE,"Rash, Diarrhea, Heartburn, Stuffy nose",Tension Headache,0,,,4,Rash,Diarrhea,Heartburn,Stuffy nose
+38,FALSE,Loratadine,62,Carbs,Cloudy,TRUE,TRUE,"Cough, Stuffy nose, Heartburn",Insomnia,1,Loratadine,,3,Cough,Stuffy nose,Heartburn,
+8,FALSE,"Dextromethorphan, Antacid",36,Sweet,Cloudy,TRUE,TRUE,"Body aches, Stomach cramps, Chest pain, Rash",Eczema,2,Dextromethorphan,Antacid,4,Body aches,Stomach cramps,Chest pain,Rash
+6,FALSE,None,95,Greasy,Cloudy,FALSE,TRUE,"Rash, Bloating",Bronchitis,0,,,2,Rash,Bloating,,
+13,TRUE,None,42,Healthy/Balanced,Foggy,TRUE,TRUE,"Sore throat, Sore throat, Cough, Chills",Common Cold,0,,,4,Sore throat,Sore throat,Cough,Chills
+30,FALSE,None,89,Sweet,Cloudy,FALSE,TRUE,"Itching, Nausea, Body aches, Heartburn",Tension Headache,0,,,4,Itching,Nausea,Body aches,Heartburn
+60,TRUE,Aspirin,101,Healthy/Balanced,Windy,TRUE,TRUE,"Vomiting, Diarrhea, Cough, Chills",Conjunctivitis (Pink Eye),1,Aspirin,,4,Vomiting,Diarrhea,Cough,Chills
+7,FALSE,Loratadine,,Salty,Rainy,TRUE,FALSE,"Abdominal pain, Vomiting, Fatigue, Fever",Allergy,1,Loratadine,,4,Abdominal pain,Vomiting,Fatigue,Fever
+37,TRUE,None,,Sweet,Sunny,FALSE,TRUE,"Shortness of breath, Chills, Fatigue, Itching",Flu,0,,,5,Shortness of breath,Chills,Fatigue,Itching
+62,FALSE,None,77,Sweet,Cloudy,FALSE,TRUE,"Heartburn, Body aches, Sore throat",Common Cold,0,,,3,Heartburn,Body aches,Sore throat,
+77,FALSE,None,,Carbs,Foggy,FALSE,FALSE,"Cough, Cough, Stuffy nose, Chest pain",Eczema,0,,,5,Cough,Cough,Stuffy nose,Chest pain
+71,TRUE,None,105,Salty,Cloudy,FALSE,FALSE,"Headache, Abdominal pain, Cough, Heartburn",Eczema,0,,,4,Headache,Abdominal pain,Cough,Heartburn
+80,FALSE,"Loperamide, Loratadine",,Spicy,Windy,FALSE,FALSE,"Fatigue, Headache, Vomiting, Nausea",Food Poisoning,2,Loperamide,Loratadine,5,Fatigue,Headache,Vomiting,Nausea
+20,TRUE,None,,Salty,Sunny,FALSE,TRUE,"Body aches, Headache, Fever, Sore throat",Gastroenteritis (Stomach Flu),0,,,4,Body aches,Headache,Fever,Sore throat
+77,TRUE,"Loperamide, Aspirin",,Carbs,Cloudy,FALSE,FALSE,"Bloating, Diarrhea, Heartburn, Diarrhea",Conjunctivitis (Pink Eye),2,Loperamide,Aspirin,4,Bloating,Diarrhea,Heartburn,Diarrhea
+22,TRUE,None,40,Salty,Cloudy,FALSE,TRUE,"Cough, Runny nose, Abdominal pain, Stomach cramps",Eczema,0,,,5,Cough,Runny nose,Abdominal pain,Stomach cramps
+32,FALSE,"Aspirin, Dextromethorphan",74,Spicy,Sunny,TRUE,FALSE,"Heartburn, Blurred vision",Bronchitis,2,Aspirin,Dextromethorphan,2,Heartburn,Blurred vision,,
+68,FALSE,None,41,Sweet,Windy,TRUE,TRUE,"Bloating, Body aches, Chills, Body aches",Acid Reflux (GERD),0,,,5,Bloating,Body aches,Chills,Body aches
+76,TRUE,Vitamin C,21,Sweet,Cloudy,FALSE,FALSE,"Vomiting, Cough, Headache, Shortness of breath",Insomnia,1,Vitamin C,,4,Vomiting,Cough,Headache,Shortness of breath
+52,FALSE,Loperamide,,Healthy/Balanced,Foggy,FALSE,TRUE,"Cough, Shortness of breath, Abdominal pain, Runny nose",Common Cold,1,Loperamide,,4,Cough,Shortness of breath,Abdominal pain,Runny nose
+50,FALSE,None,,Greasy,Cloudy,FALSE,TRUE,"Fever, Runny nose, Sore throat",Common Cold,0,,,3,Fever,Runny nose,Sore throat,
+38,FALSE,None,41,Salty,Foggy,FALSE,TRUE,"Body aches, Vomiting, Abdominal pain",Conjunctivitis (Pink Eye),0,,,3,Body aches,Vomiting,Abdominal pain,
+21,FALSE,None,104,Sweet,Rainy,TRUE,TRUE,"Nausea, Sore throat, Runny nose, Fatigue",Food Poisoning,0,,,5,Nausea,Sore throat,Runny nose,Fatigue
+43,FALSE,None,84,Carbs,Snowy,FALSE,FALSE,"Diarrhea, Rash, Headache, Chills",Flu,0,,,4,Diarrhea,Rash,Headache,Chills
+76,FALSE,Vitamin C,78,Healthy/Balanced,Sunny,FALSE,TRUE,"Bloating, Vomiting, Body aches",Sinusitis (Sinus Infection),1,Vitamin C,,3,Bloating,Vomiting,Body aches,
+8,TRUE,"Vitamin C, Dextromethorphan",27,Salty,Foggy,TRUE,TRUE,"Dizziness, Chills, Itching, Abdominal pain",Muscle Strain,2,Vitamin C,Dextromethorphan,5,Dizziness,Chills,Itching,Abdominal pain
+7,TRUE,Loratadine,87,Sweet,Sunny,TRUE,FALSE,"Nausea, Fever, Shortness of breath, Vomiting",Food Poisoning,1,Loratadine,,5,Nausea,Fever,Shortness of breath,Vomiting
+71,TRUE,Antacid,58,Carbs,Rainy,FALSE,FALSE,"Bloating, Fatigue",Sinusitis (Sinus Infection),1,Antacid,,2,Bloating,Fatigue,,
+39,FALSE,Aspirin,,Sweet,Snowy,TRUE,TRUE,"Runny nose, Sore throat, Cough, Abdominal pain",Common Cold,1,Aspirin,,5,Runny nose,Sore throat,Cough,Abdominal pain
+18,TRUE,Loratadine,,Salty,Snowy,FALSE,FALSE,"Shortness of breath, Stomach cramps, Rash, Itching",Muscle Strain,1,Loratadine,,4,Shortness of breath,Stomach cramps,Rash,Itching
+14,TRUE,None,22,Salty,Rainy,TRUE,TRUE,"Bloating, Stuffy nose, Body aches, Diarrhea",Sinusitis (Sinus Infection),0,,,4,Bloating,Stuffy nose,Body aches,Diarrhea
+9,FALSE,"Loratadine, Aspirin",48,Healthy/Balanced,Sunny,TRUE,TRUE,"Headache, Heartburn, Abdominal pain, Shortness of breath",Acid Reflux (GERD),2,Loratadine,Aspirin,5,Headache,Heartburn,Abdominal pain,Shortness of breath
+52,FALSE,Loratadine,108,Sweet,Sunny,TRUE,FALSE,"Itching, Runny nose, Stomach cramps",Gastroenteritis (Stomach Flu),1,Loratadine,,3,Itching,Runny nose,Stomach cramps,
+47,TRUE,None,,Spicy,Foggy,TRUE,TRUE,"Diarrhea, Nausea, Itching, Chest pain",Eczema,0,,,4,Diarrhea,Nausea,Itching,Chest pain
+52,TRUE,Loperamide,107,Spicy,Snowy,FALSE,TRUE,"Nausea, Fever",Allergy,1,Loperamide,,2,Nausea,Fever,,
+9,FALSE,Loperamide,,Greasy,Snowy,TRUE,TRUE,"Stuffy nose, Heartburn, Stuffy nose, Chills",Insomnia,1,Loperamide,,4,Stuffy nose,Heartburn,Stuffy nose,Chills
+68,FALSE,None,39,Carbs,Windy,FALSE,TRUE,"Nausea, Runny nose",Muscle Strain,0,,,2,Nausea,Runny nose,,
+52,TRUE,None,85,Sweet,Snowy,TRUE,FALSE,"Abdominal pain, Fatigue",Food Poisoning,0,,,2,Abdominal pain,Fatigue,,
+49,TRUE,"Loperamide, Dextromethorphan",94,Sweet,Rainy,TRUE,FALSE,"Itching, Rash, Sore throat, Fatigue",Allergy,2,Loperamide,Dextromethorphan,5,Itching,Rash,Sore throat,Fatigue
+48,FALSE,"Loperamide, Dextromethorphan",45,Healthy/Balanced,Foggy,TRUE,FALSE,"Nausea, Heartburn, Itching, Blurred vision",Gastroenteritis (Stomach Flu),2,Loperamide,Dextromethorphan,5,Nausea,Heartburn,Itching,Blurred vision
+21,FALSE,None,,Spicy,Snowy,FALSE,FALSE,"Abdominal pain, Blurred vision, Fatigue, Fever",Gastroenteritis (Stomach Flu),0,,,5,Abdominal pain,Blurred vision,Fatigue,Fever
+10,TRUE,None,,Salty,Foggy,FALSE,TRUE,"Shortness of breath, Stuffy nose, Dizziness, Headache",Sinusitis (Sinus Infection),0,,,5,Shortness of breath,Stuffy nose,Dizziness,Headache
+39,TRUE,None,46,Carbs,Foggy,TRUE,TRUE,"Bloating, Headache, Itching, Runny nose",Food Poisoning,0,,,4,Bloating,Headache,Itching,Runny nose
+67,TRUE,Dextromethorphan,77,Sweet,Rainy,TRUE,FALSE,"Bloating, Heartburn, Blurred vision",Muscle Strain,1,Dextromethorphan,,3,Bloating,Heartburn,Blurred vision,
+55,FALSE,None,36,Sweet,Rainy,FALSE,FALSE,"Heartburn, Body aches, Stomach cramps, Cough",Urinary Tract Infection (UTI),0,,,4,Heartburn,Body aches,Stomach cramps,Cough
+68,TRUE,Antacid,48,Carbs,Rainy,FALSE,TRUE,"Bloating, Diarrhea",Allergy,1,Antacid,,2,Bloating,Diarrhea,,
+39,FALSE,"Loperamide, Paracetamol",108,Carbs,Windy,TRUE,FALSE,"Stuffy nose, Runny nose, Fatigue, Stomach cramps",Migraine,2,Loperamide,Paracetamol,5,Stuffy nose,Runny nose,Fatigue,Stomach cramps
+36,TRUE,"Loperamide, Paracetamol",63,Sweet,Sunny,FALSE,FALSE,"Rash, Sore throat, Headache",Allergy,2,Loperamide,Paracetamol,3,Rash,Sore throat,Headache,
+8,TRUE,None,,Greasy,Snowy,TRUE,FALSE,"Itching, Fever, Dizziness, Runny nose",Acid Reflux (GERD),0,,,5,Itching,Fever,Dizziness,Runny nose
+53,TRUE,"Vitamin C, Antacid",87,Salty,Rainy,FALSE,TRUE,"Nausea, Sore throat, Body aches",Bronchitis,2,Vitamin C,Antacid,3,Nausea,Sore throat,Body aches,
+40,TRUE,Aspirin,21,Spicy,Sunny,FALSE,FALSE,"Headache, Itching, Diarrhea, Nausea",Sinusitis (Sinus Infection),1,Aspirin,,5,Headache,Itching,Diarrhea,Nausea
+33,FALSE,None,66,Sweet,Cloudy,TRUE,TRUE,"Rash, Heartburn, Itching, Heartburn",Gastroenteritis (Stomach Flu),0,,,5,Rash,Heartburn,Itching,Heartburn
+62,TRUE,"Ibuprofen, Aspirin",99,Spicy,Sunny,TRUE,TRUE,"Shortness of breath, Heartburn, Shortness of breath, Stuffy nose",Tension Headache,2,Ibuprofen,Aspirin,4,Shortness of breath,Heartburn,Shortness of breath,Stuffy nose
+28,TRUE,None,80,Sweet,Foggy,FALSE,FALSE,"Chest pain, Chest pain, Dizziness, Vomiting",Urinary Tract Infection (UTI),0,,,4,Chest pain,Chest pain,Dizziness,Vomiting
+75,TRUE,"Paracetamol, Loratadine",,Carbs,Foggy,TRUE,FALSE,"Headache, Diarrhea, Abdominal pain",Gastroenteritis (Stomach Flu),2,Paracetamol,Loratadine,3,Headache,Diarrhea,Abdominal pain,
+50,TRUE,None,98,Healthy/Balanced,Rainy,TRUE,FALSE,"Body aches, Heartburn, Rash",Urinary Tract Infection (UTI),0,,,3,Body aches,Heartburn,Rash,
+50,FALSE,Loperamide,68,Salty,Snowy,FALSE,FALSE,"Fever, Stuffy nose, Rash",Muscle Strain,1,Loperamide,,3,Fever,Stuffy nose,Rash,
+32,FALSE,None,,Healthy/Balanced,Snowy,FALSE,TRUE,"Chills, Chest pain",Insomnia,0,,,2,Chills,Chest pain,,
+7,TRUE,None,,Salty,Sunny,TRUE,TRUE,"Sore throat, Rash, Shortness of breath, Sore throat",Acid Reflux (GERD),0,,,5,Sore throat,Rash,Shortness of breath,Sore throat
+41,FALSE,None,72,Carbs,Sunny,TRUE,TRUE,"Chills, Cough, Itching",Insomnia,0,,,3,Chills,Cough,Itching,
+32,FALSE,None,100,Healthy/Balanced,Snowy,FALSE,TRUE,"Shortness of breath, Body aches",Gastroenteritis (Stomach Flu),0,,,2,Shortness of breath,Body aches,,
+58,TRUE,"Aspirin, Paracetamol",106,Spicy,Sunny,TRUE,TRUE,"Rash, Headache, Chest pain, Itching",Common Cold,2,Aspirin,Paracetamol,4,Rash,Headache,Chest pain,Itching
+72,TRUE,"Paracetamol, Ibuprofen",,Greasy,Windy,TRUE,TRUE,"Fever, Sore throat, Headache, Heartburn",Bronchitis,2,Paracetamol,Ibuprofen,5,Fever,Sore throat,Headache,Heartburn
+42,TRUE,"Loratadine, None",39,Spicy,Rainy,TRUE,TRUE,"Stuffy nose, Shortness of breath, Dizziness, Fever",Insomnia,2,Loratadine,None,4,Stuffy nose,Shortness of breath,Dizziness,Fever
+64,TRUE,None,40,Healthy/Balanced,Rainy,TRUE,FALSE,"Cough, Blurred vision, Nausea, Rash",Eczema,0,,,5,Cough,Blurred vision,Nausea,Rash
+69,FALSE,"Loperamide, Loperamide",42,Salty,Snowy,FALSE,FALSE,"Nausea, Vomiting, Chills",Food Poisoning,2,Loperamide,Loperamide,3,Nausea,Vomiting,Chills,
+38,FALSE,"Antacid, Antacid",101,Spicy,Foggy,FALSE,FALSE,"Nausea, Vomiting",Gastroenteritis (Stomach Flu),2,Antacid,Antacid,2,Nausea,Vomiting,,
+67,TRUE,None,,Spicy,Sunny,FALSE,FALSE,"Vomiting, Chills, Stuffy nose, Shortness of breath",Migraine,0,,,4,Vomiting,Chills,Stuffy nose,Shortness of breath
+62,TRUE,None,99,Sweet,Foggy,TRUE,FALSE,"Dizziness, Rash, Blurred vision, Body aches",Muscle Strain,0,,,4,Dizziness,Rash,Blurred vision,Body aches
+41,TRUE,"Ibuprofen, Ibuprofen",,Healthy/Balanced,Cloudy,FALSE,FALSE,"Itching, Shortness of breath, Dizziness, Heartburn",Bronchitis,2,Ibuprofen,Ibuprofen,4,Itching,Shortness of breath,Dizziness,Heartburn
+41,FALSE,Loperamide,24,Salty,Cloudy,TRUE,FALSE,"Stomach cramps, Sore throat, Vomiting, Body aches",Sinusitis (Sinus Infection),1,Loperamide,,5,Stomach cramps,Sore throat,Vomiting,Body aches
+72,FALSE,None,63,Salty,Snowy,TRUE,TRUE,"Blurred vision, Runny nose, Body aches, Diarrhea",Flu,1,None,,4,Blurred vision,Runny nose,Body aches,Diarrhea
+71,FALSE,"Loratadine, Antacid",48,Healthy/Balanced,Snowy,TRUE,TRUE,"Body aches, Blurred vision, Vomiting, Cough",Common Cold,2,Loratadine,Antacid,4,Body aches,Blurred vision,Vomiting,Cough
+68,FALSE,Vitamin C,,Greasy,Snowy,TRUE,FALSE,"Diarrhea, Headache",Sinusitis (Sinus Infection),1,Vitamin C,,2,Diarrhea,Headache,,
+47,FALSE,Ibuprofen,41,Healthy/Balanced,Rainy,TRUE,FALSE,"Vomiting, Cough, Chest pain",Common Cold,1,Ibuprofen,,3,Vomiting,Cough,Chest pain,
+71,FALSE,"Ibuprofen, Loratadine",61,Salty,Sunny,FALSE,TRUE,"Stuffy nose, Diarrhea",Acid Reflux (GERD),2,Ibuprofen,Loratadine,2,Stuffy nose,Diarrhea,,
+53,TRUE,Loratadine,45,Spicy,Snowy,TRUE,TRUE,"Chest pain, Heartburn",Common Cold,1,Loratadine,,2,Chest pain,Heartburn,,
+7,TRUE,"Antacid, Dextromethorphan",,Healthy/Balanced,Snowy,FALSE,TRUE,"Chest pain, Rash, Fever, Nausea",Food Poisoning,2,Antacid,Dextromethorphan,4,Chest pain,Rash,Fever,Nausea
+55,FALSE,"Paracetamol, Vitamin C",63,Healthy/Balanced,Cloudy,FALSE,TRUE,"Cough, Cough",Bronchitis,2,Paracetamol,Vitamin C,2,Cough,Cough,,
+76,FALSE,"Antacid, Loperamide",38,Carbs,Foggy,TRUE,FALSE,"Itching, Vomiting",Acid Reflux (GERD),2,Antacid,Loperamide,2,Itching,Vomiting,,
+74,TRUE,Loperamide,27,Sweet,Sunny,FALSE,TRUE,"Stomach cramps, Abdominal pain, Runny nose, Cough",Muscle Strain,1,Loperamide,,5,Stomach cramps,Abdominal pain,Runny nose,Cough
+30,FALSE,"Loratadine, Antacid",,Greasy,Snowy,FALSE,FALSE,"Rash, Headache, Itching, Body aches",Migraine,2,Loratadine,Antacid,5,Rash,Headache,Itching,Body aches
+78,TRUE,"None, Dextromethorphan",77,Carbs,Windy,TRUE,FALSE,"Stomach cramps, Itching, Rash, Abdominal pain",Bronchitis,2,None,Dextromethorphan,4,Stomach cramps,Itching,Rash,Abdominal pain
+43,FALSE,"Vitamin C, Vitamin C",,Carbs,Windy,FALSE,FALSE,"Fatigue, Itching, Sore throat, Chills",Urinary Tract Infection (UTI),2,Vitamin C,Vitamin C,5,Fatigue,Itching,Sore throat,Chills
+47,TRUE,"Loratadine, Loperamide",,Healthy/Balanced,Snowy,FALSE,FALSE,"Nausea, Chills, Stuffy nose, Chills",Eczema,2,Loratadine,Loperamide,4,Nausea,Chills,Stuffy nose,Chills
+63,TRUE,"Ibuprofen, Paracetamol",77,Carbs,Rainy,FALSE,TRUE,"Blurred vision, Nausea, Dizziness",Acid Reflux (GERD),2,Ibuprofen,Paracetamol,3,Blurred vision,Nausea,Dizziness,
+49,FALSE,"Dextromethorphan, None",104,Greasy,Snowy,FALSE,FALSE,"Chills, Nausea, Blurred vision",Migraine,2,Dextromethorphan,None,3,Chills,Nausea,Blurred vision,
+9,TRUE,Loperamide,77,Greasy,Windy,TRUE,FALSE,"Stomach cramps, Stomach cramps",Insomnia,1,Loperamide,,2,Stomach cramps,Stomach cramps,,
+57,FALSE,None,88,Healthy/Balanced,Windy,TRUE,TRUE,"Rash, Stuffy nose, Bloating",Migraine,0,,,3,Rash,Stuffy nose,Bloating,
+10,TRUE,Antacid,77,Healthy/Balanced,Rainy,FALSE,TRUE,"Runny nose, Nausea, Shortness of breath, Fever",Gastroenteritis (Stomach Flu),1,Antacid,,5,Runny nose,Nausea,Shortness of breath,Fever
+9,TRUE,"Dextromethorphan, Ibuprofen",,Salty,Cloudy,TRUE,TRUE,"Chest pain, Vomiting, Body aches, Chills",Food Poisoning,2,Dextromethorphan,Ibuprofen,5,Chest pain,Vomiting,Body aches,Chills
+68,TRUE,Loratadine,,Greasy,Foggy,FALSE,TRUE,"Diarrhea, Diarrhea, Sore throat, Runny nose",Migraine,1,Loratadine,,4,Diarrhea,Diarrhea,Sore throat,Runny nose
+41,TRUE,Paracetamol,64,Greasy,Snowy,FALSE,FALSE,"Abdominal pain, Nausea, Cough",Acid Reflux (GERD),1,Paracetamol,,3,Abdominal pain,Nausea,Cough,
+23,TRUE,"Paracetamol, Antacid",31,Spicy,Foggy,TRUE,FALSE,"Sore throat, Fatigue, Dizziness",Acid Reflux (GERD),2,Paracetamol,Antacid,3,Sore throat,Fatigue,Dizziness,
+72,TRUE,None,84,Healthy/Balanced,Sunny,TRUE,TRUE,"Diarrhea, Chills, Bloating",Muscle Strain,0,,,3,Diarrhea,Chills,Bloating,
+65,TRUE,None,,Spicy,Sunny,FALSE,TRUE,"Blurred vision, Fever, Chest pain",Sinusitis (Sinus Infection),0,,,3,Blurred vision,Fever,Chest pain,
+5,FALSE,Loperamide,,Spicy,Rainy,TRUE,FALSE,"Headache, Dizziness, Rash",Tension Headache,1,Loperamide,,3,Headache,Dizziness,Rash,
+25,FALSE,None,,Spicy,Snowy,FALSE,FALSE,"Fatigue, Rash, Headache",Eczema,0,,,3,Fatigue,Rash,Headache,
+80,TRUE,None,85,Sweet,Sunny,TRUE,TRUE,"Heartburn, Vomiting, Nausea, Body aches",Gastroenteritis (Stomach Flu),0,,,4,Heartburn,Vomiting,Nausea,Body aches
+28,TRUE,None,106,Sweet,Sunny,FALSE,TRUE,"Runny nose, Sore throat, Stuffy nose, Bloating",Urinary Tract Infection (UTI),0,,,4,Runny nose,Sore throat,Stuffy nose,Bloating
+27,FALSE,Loratadine,,Spicy,Snowy,TRUE,FALSE,"Cough, Fatigue, Rash, Bloating",Urinary Tract Infection (UTI),1,Loratadine,,4,Cough,Fatigue,Rash,Bloating
+5,FALSE,None,68,Healthy/Balanced,Rainy,TRUE,FALSE,"Nausea, Fatigue",Acid Reflux (GERD),0,,,2,Nausea,Fatigue,,
+43,TRUE,Paracetamol,,Healthy/Balanced,Snowy,TRUE,TRUE,"Chills, Sore throat, Itching, Abdominal pain",Food Poisoning,1,Paracetamol,,5,Chills,Sore throat,Itching,Abdominal pain
+25,TRUE,None,,Salty,Cloudy,TRUE,FALSE,"Chest pain, Stuffy nose, Shortness of breath",Tension Headache,0,,,3,Chest pain,Stuffy nose,Shortness of breath,
+60,FALSE,"Loperamide, Loperamide",77,Sweet,Foggy,TRUE,FALSE,"Heartburn, Nausea",Migraine,2,Loperamide,Loperamide,2,Heartburn,Nausea,,
+67,TRUE,"Antacid, Dextromethorphan",49,Carbs,Foggy,FALSE,FALSE,"Fatigue, Itching, Chest pain, Chest pain",Tension Headache,2,Antacid,Dextromethorphan,5,Fatigue,Itching,Chest pain,Chest pain
+35,TRUE,None,79,Carbs,Snowy,TRUE,FALSE,"Headache, Headache, Rash, Body aches",Tension Headache,0,,,5,Headache,Headache,Rash,Body aches
+68,TRUE,None,99,Greasy,Windy,TRUE,FALSE,"Heartburn, Rash, Cough, Chest pain",Sinusitis (Sinus Infection),0,,,4,Heartburn,Rash,Cough,Chest pain
+75,TRUE,"Ibuprofen, Paracetamol",94,Carbs,Cloudy,FALSE,FALSE,"Diarrhea, Nausea, Heartburn, Abdominal pain",Common Cold,2,Ibuprofen,Paracetamol,4,Diarrhea,Nausea,Heartburn,Abdominal pain
+18,TRUE,None,,Spicy,Rainy,TRUE,TRUE,"Chills, Diarrhea, Headache, Itching",Conjunctivitis (Pink Eye),0,,,4,Chills,Diarrhea,Headache,Itching
+29,FALSE,"Ibuprofen, Ibuprofen",48,Greasy,Cloudy,FALSE,TRUE,"Shortness of breath, Bloating",Migraine,2,Ibuprofen,Ibuprofen,2,Shortness of breath,Bloating,,
+50,TRUE,Loperamide,92,Spicy,Windy,FALSE,TRUE,"Bloating, Runny nose, Chills, Sore throat",Acid Reflux (GERD),1,Loperamide,,4,Bloating,Runny nose,Chills,Sore throat
+54,FALSE,"None, Aspirin",20,Sweet,Snowy,FALSE,TRUE,"Cough, Rash, Itching, Blurred vision",Gastroenteritis (Stomach Flu),2,None,Aspirin,4,Cough,Rash,Itching,Blurred vision
+59,TRUE,None,55,Greasy,Snowy,FALSE,TRUE,"Heartburn, Nausea, Fatigue, Nausea",Sinusitis (Sinus Infection),0,,,4,Heartburn,Nausea,Fatigue,Nausea
+10,TRUE,Loratadine,,Salty,Windy,FALSE,TRUE,"Chills, Bloating, Rash",Eczema,1,Loratadine,,3,Chills,Bloating,Rash,
+36,FALSE,"Vitamin C, Vitamin C",21,Salty,Rainy,FALSE,TRUE,"Itching, Shortness of breath, Stuffy nose, Runny nose",Conjunctivitis (Pink Eye),2,Vitamin C,Vitamin C,5,Itching,Shortness of breath,Stuffy nose,Runny nose
+24,TRUE,Ibuprofen,82,Spicy,Windy,FALSE,FALSE,"Shortness of breath, Cough, Stuffy nose, Heartburn",Bronchitis,1,Ibuprofen,,5,Shortness of breath,Cough,Stuffy nose,Heartburn
+56,FALSE,Dextromethorphan,,Spicy,Rainy,TRUE,TRUE,"Stomach cramps, Abdominal pain, Fatigue",Migraine,1,Dextromethorphan,,3,Stomach cramps,Abdominal pain,Fatigue,
+68,TRUE,None,49,Sweet,Windy,FALSE,FALSE,"Heartburn, Abdominal pain, Chills, Abdominal pain",Eczema,0,,,5,Heartburn,Abdominal pain,Chills,Abdominal pain
+54,TRUE,None,,Greasy,Windy,TRUE,FALSE,"Chills, Runny nose",Gastroenteritis (Stomach Flu),0,,,2,Chills,Runny nose,,
+30,FALSE,"None, None",47,Greasy,Windy,FALSE,TRUE,"Rash, Diarrhea, Runny nose",Gastroenteritis (Stomach Flu),2,None,None,3,Rash,Diarrhea,Runny nose,
+76,FALSE,"Dextromethorphan, Antacid",35,Carbs,Foggy,TRUE,FALSE,"Bloating, Heartburn, Blurred vision",Bronchitis,2,Dextromethorphan,Antacid,3,Bloating,Heartburn,Blurred vision,
+28,TRUE,"Loratadine, Vitamin C",,Greasy,Windy,TRUE,TRUE,"Nausea, Vomiting, Itching",Sinusitis (Sinus Infection),2,Loratadine,Vitamin C,3,Nausea,Vomiting,Itching,
+66,TRUE,Antacid,96,Carbs,Windy,TRUE,TRUE,"Rash, Headache",Conjunctivitis (Pink Eye),1,Antacid,,2,Rash,Headache,,
+9,FALSE,"Paracetamol, Paracetamol",104,Salty,Foggy,FALSE,FALSE,"Body aches, Sore throat",Bronchitis,2,Paracetamol,Paracetamol,2,Body aches,Sore throat,,
+46,TRUE,Loratadine,,Carbs,Windy,TRUE,TRUE,"Abdominal pain, Dizziness, Headache, Chills",Flu,1,Loratadine,,4,Abdominal pain,Dizziness,Headache,Chills
+72,TRUE,"Aspirin, Ibuprofen",100,Greasy,Windy,TRUE,TRUE,"Runny nose, Fatigue, Heartburn, Diarrhea",Common Cold,2,Aspirin,Ibuprofen,4,Runny nose,Fatigue,Heartburn,Diarrhea
+65,FALSE,None,96,Sweet,Windy,FALSE,FALSE,"Stuffy nose, Shortness of breath, Abdominal pain, Chest pain",Eczema,0,,,5,Stuffy nose,Shortness of breath,Abdominal pain,Chest pain
+47,TRUE,"Loratadine, None",23,Greasy,Snowy,FALSE,FALSE,"Dizziness, Body aches",Migraine,2,Loratadine,None,2,Dizziness,Body aches,,

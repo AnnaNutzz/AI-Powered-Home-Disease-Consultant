@@ -1,0 +1,240 @@
+Disease/Condition,Symptoms,Doctor to Consult,Age Category,Weight (kg),Height (cm),Alcohol Consumption (units/week),Fruit Consumption (servings/day),Smoker
+Toothache / Dental Cavity,"Sharp or throbbing pain in tooth, sensitivity to hot/cold",Dentist,Child,36,140,0,2,No
+Toothache / Dental Cavity,"Sharp or throbbing pain in tooth, sensitivity to hot/cold",Dentist,Adult,57,177,2,3,No
+Conjunctivitis (Pink Eye),"Redness in the eye, itching, discharge",Ophthalmologist,Child,32,105,0,3,No
+Constipation,"Infrequent bowel movements, straining, hard stools",General Physician,Teenager,69,150,0,5,No
+Tension Headache,"Dull, aching head pain, tightness in scalp",General Physician,Teenager,58,149,0,0,No
+Anxiety Attack,"Rapid heartbeat, sweating, trembling, shortness of breath",Psychiatrist / GP,Teenager,56,164,0,0,No
+Ankle Sprain,"Pain, swelling, bruising, inability to put weight on the ankle",Orthopedist / Physiotherapist,Teenager,56,174,0,0,No
+Ankle Sprain,"Pain, swelling, bruising, inability to put weight on the ankle",Orthopedist / Physiotherapist,Child,23,115,0,2,No
+Urinary Tract Infection (UTI),"Painful urination, frequent urge to urinate",Urologist/General Physician,Adult,94,184,9,2,Yes
+Ankle Sprain,"Pain, swelling, bruising, inability to put weight on the ankle",Orthopedist / Physiotherapist,Child,21,110,0,0,No
+Muscle Strain,"Sudden pain, soreness, limited range of motion, swelling",Physiotherapist / GP,Child,15,103,0,5,No
+Eczema (Atopic Dermatitis),"Dry, itchy skin, red patches, small raised bumps",Dermatologist,Child,16,103,0,2,No
+Menstrual Cramps,"Lower abdominal pain, bloating, backache",Gynecologist,Adult,92,155,8,2,No
+Indigestion,"Bloating, gas, heartburn, feeling full quickly",Gastroenterologist,Child,17,118,0,3,No
+Allergic Rhinitis,"Sneezing, itchy nose, watery eyes, congestion",Allergist/Immunologist,Teenager,65,163,0,5,No
+Strep Throat,"Severe sore throat, pain when swallowing, fever, red tonsils",General Physician,Child,35,131,0,2,No
+Ankle Sprain,"Pain, swelling, bruising, inability to put weight on the ankle",Orthopedist / Physiotherapist,Adult,71,168,8,1,Yes
+Tension Headache,"Dull, aching head pain, tightness in scalp",General Physician,Teenager,65,150,0,4,No
+Sinusitis,"Facial pressure, stuffy nose, headache, thick nasal mucus",ENT Specialist,Teenager,45,147,0,1,No
+Indigestion,"Bloating, gas, heartburn, feeling full quickly",Gastroenterologist,Teenager,57,170,0,1,No
+Sinusitis,"Facial pressure, stuffy nose, headache, thick nasal mucus",ENT Specialist,Adult,63,180,3,1,No
+Menstrual Cramps,"Lower abdominal pain, bloating, backache",Gynecologist,Adult,63,185,3,4,Yes
+Dengue Fever,"High fever, severe headache, joint and muscle pain, rash, pain behind eyes",General Physician,Adult,64,181,0,1,No
+Dengue Fever,"High fever, severe headache, joint and muscle pain, rash, pain behind eyes",General Physician,Child,25,132,0,4,No
+Food Poisoning,"Nausea, vomiting, diarrhea, stomach cramps, fever",General Physician,Child,27,105,0,0,No
+Tension Headache,"Dull, aching head pain, tightness in scalp",General Physician,Teenager,68,157,0,2,No
+Urinary Tract Infection (UTI),"Painful urination, frequent urge to urinate",Urologist/General Physician,Adult,69,168,5,3,Yes
+Acute Gastritis,"Upset stomach, indigestion, abdominal pain, nausea, hiccups",Gastroenterologist,Child,23,103,0,2,No
+Vitamin D Deficiency,"Bone pain, muscle weakness, fatigue, mood changes",General Physician,Adult,68,182,10,1,No
+Dengue Fever,"High fever, severe headache, joint and muscle pain, rash, pain behind eyes",General Physician,Adult,75,156,10,3,No
+Acute Gastritis,"Upset stomach, indigestion, abdominal pain, nausea, hiccups",Gastroenterologist,Child,26,126,0,3,No
+Dengue Fever,"High fever, severe headache, joint and muscle pain, rash, pain behind eyes",General Physician,Teenager,64,160,0,1,No
+Indigestion,"Bloating, gas, heartburn, feeling full quickly",Gastroenterologist,Teenager,61,159,0,4,No
+Tinea (Fungal Infection),"Itchy, red, circular rash on skin, peeling skin",Dermatologist,Teenager,49,172,0,0,No
+Insomnia,"Difficulty falling asleep, waking up often, feeling tired",General Physician,Adult,57,174,3,5,No
+Constipation,"Infrequent bowel movements, straining, hard stools",General Physician,Teenager,62,162,0,0,No
+Tonsillitis,"Swollen tonsils, sore throat, difficulty swallowing, fever",ENT Specialist / GP,Teenager,65,173,0,1,No
+Benign Positional Vertigo,"Dizziness, spinning sensation (vertigo), loss of balance, nausea",ENT Specialist / Neurologist,Child,39,120,0,0,No
+Iron-Deficiency Anemia,"Fatigue, weakness, pale skin, shortness of breath, headache",General Physician,Child,38,107,0,5,No
+Vitamin D Deficiency,"Bone pain, muscle weakness, fatigue, mood changes",General Physician,Child,23,103,0,2,No
+Allergic Rhinitis,"Sneezing, itchy nose, watery eyes, congestion",Allergist/Immunologist,Child,37,122,0,3,No
+Strep Throat,"Severe sore throat, pain when swallowing, fever, red tonsils",General Physician,Adult,55,180,7,0,No
+Constipation,"Infrequent bowel movements, straining, hard stools",General Physician,Adult,64,156,1,1,No
+Constipation,"Infrequent bowel movements, straining, hard stools",General Physician,Adult,79,155,1,0,No
+Common Cold,"Runny nose, sneezing, sore throat, cough",General Physician,Adult,72,177,10,2,No
+Conjunctivitis (Pink Eye),"Redness in the eye, itching, discharge",Ophthalmologist,Adult,90,171,2,0,No
+Conjunctivitis (Pink Eye),"Redness in the eye, itching, discharge",Ophthalmologist,Teenager,59,172,0,0,No
+Eczema (Atopic Dermatitis),"Dry, itchy skin, red patches, small raised bumps",Dermatologist,Adult,97,176,7,1,Yes
+Eczema (Atopic Dermatitis),"Dry, itchy skin, red patches, small raised bumps",Dermatologist,Adult,88,179,6,0,No
+Urinary Tract Infection (UTI),"Painful urination, frequent urge to urinate",Urologist/General Physician,Teenager,46,165,0,3,No
+Sinusitis,"Facial pressure, stuffy nose, headache, thick nasal mucus",ENT Specialist,Child,26,119,0,5,No
+Toothache / Dental Cavity,"Sharp or throbbing pain in tooth, sensitivity to hot/cold",Dentist,Adult,77,178,4,3,Yes
+Benign Positional Vertigo,"Dizziness, spinning sensation (vertigo), loss of balance, nausea",ENT Specialist / Neurologist,Teenager,45,146,0,3,No
+Gastroenteritis,"Nausea, vomiting, diarrhea, stomach cramps",General Physician,Teenager,67,147,0,4,No
+Dehydration,"Thirst, dry mouth, infrequent urination, fatigue, headache",General Physician,Child,30,117,0,1,No
+Acute Gastritis,"Upset stomach, indigestion, abdominal pain, nausea, hiccups",Gastroenterologist,Child,34,108,0,3,No
+Dengue Fever,"High fever, severe headache, joint and muscle pain, rash, pain behind eyes",General Physician,Adult,86,155,6,2,No
+Common Cold,"Runny nose, sneezing, sore throat, cough",General Physician,Teenager,67,170,0,3,No
+Acid Reflux (GERD),"Heartburn, chest pain, regurgitation, sore throat",Gastroenterologist,Adult,83,188,8,0,No
+Strep Throat,"Severe sore throat, pain when swallowing, fever, red tonsils",General Physician,Adult,88,160,3,0,Yes
+Tinea (Fungal Infection),"Itchy, red, circular rash on skin, peeling skin",Dermatologist,Teenager,64,167,0,5,No
+Muscle Strain,"Sudden pain, soreness, limited range of motion, swelling",Physiotherapist / GP,Teenager,62,174,0,5,No
+Strep Throat,"Severe sore throat, pain when swallowing, fever, red tonsils",General Physician,Teenager,63,152,0,2,No
+Conjunctivitis (Pink Eye),"Redness in the eye, itching, discharge",Ophthalmologist,Adult,72,185,3,5,No
+Migraine,"Throbbing headache, nausea, sensitivity to light",Neurologist,Adult,61,190,7,4,Yes
+Food Poisoning,"Nausea, vomiting, diarrhea, stomach cramps, fever",General Physician,Adult,71,161,4,4,No
+Iron-Deficiency Anemia,"Fatigue, weakness, pale skin, shortness of breath, headache",General Physician,Adult,80,160,0,1,No
+Gastroenteritis,"Nausea, vomiting, diarrhea, stomach cramps",General Physician,Adult,70,183,5,4,No
+Urinary Tract Infection (UTI),"Painful urination, frequent urge to urinate",Urologist/General Physician,Teenager,48,154,0,5,No
+Insomnia,"Difficulty falling asleep, waking up often, feeling tired",General Physician,Adult,99,179,5,1,Yes
+Sinusitis,"Facial pressure, stuffy nose, headache, thick nasal mucus",ENT Specialist,Teenager,49,162,0,1,No
+Common Cold,"Runny nose, sneezing, sore throat, cough",General Physician,Child,33,138,0,0,No
+Migraine,"Throbbing headache, nausea, sensitivity to light",Neurologist,Child,32,108,0,3,No
+Dengue Fever,"High fever, severe headache, joint and muscle pain, rash, pain behind eyes",General Physician,Child,23,140,0,1,No
+Common Cold,"Runny nose, sneezing, sore throat, cough",General Physician,Teenager,70,147,0,1,No
+Indigestion,"Bloating, gas, heartburn, feeling full quickly",Gastroenterologist,Adult,83,159,6,4,Yes
+Vitamin D Deficiency,"Bone pain, muscle weakness, fatigue, mood changes",General Physician,Child,17,115,0,2,No
+Tonsillitis,"Swollen tonsils, sore throat, difficulty swallowing, fever",ENT Specialist / GP,Teenager,67,151,0,2,No
+Tinea (Fungal Infection),"Itchy, red, circular rash on skin, peeling skin",Dermatologist,Child,17,129,0,0,No
+Insomnia,"Difficulty falling asleep, waking up often, feeling tired",General Physician,Child,15,114,0,1,No
+Tonsillitis,"Swollen tonsils, sore throat, difficulty swallowing, fever",ENT Specialist / GP,Adult,64,169,0,3,Yes
+Vitamin D Deficiency,"Bone pain, muscle weakness, fatigue, mood changes",General Physician,Child,17,132,0,4,No
+Acute Gastritis,"Upset stomach, indigestion, abdominal pain, nausea, hiccups",Gastroenterologist,Child,22,121,0,1,No
+Dengue Fever,"High fever, severe headache, joint and muscle pain, rash, pain behind eyes",General Physician,Teenager,58,167,0,3,No
+Dengue Fever,"High fever, severe headache, joint and muscle pain, rash, pain behind eyes",General Physician,Child,20,132,0,2,No
+Dengue Fever,"High fever, severe headache, joint and muscle pain, rash, pain behind eyes",General Physician,Adult,65,162,10,4,No
+Dengue Fever,"High fever, severe headache, joint and muscle pain, rash, pain behind eyes",General Physician,Adult,58,157,0,5,No
+Influenza (Flu),"Fever, body aches, headache, fatigue, cough",General Physician,Child,28,129,0,2,No
+Benign Positional Vertigo,"Dizziness, spinning sensation (vertigo), loss of balance, nausea",ENT Specialist / Neurologist,Teenager,66,167,0,1,No
+Constipation,"Infrequent bowel movements, straining, hard stools",General Physician,Teenager,63,147,0,1,No
+Acid Reflux (GERD),"Heartburn, chest pain, regurgitation, sore throat",Gastroenterologist,Teenager,70,161,0,0,No
+Insomnia,"Difficulty falling asleep, waking up often, feeling tired",General Physician,Adult,62,190,6,2,No
+Iron-Deficiency Anemia,"Fatigue, weakness, pale skin, shortness of breath, headache",General Physician,Adult,92,164,4,3,No
+Ankle Sprain,"Pain, swelling, bruising, inability to put weight on the ankle",Orthopedist / Physiotherapist,Adult,60,186,1,3,No
+Gastroenteritis,"Nausea, vomiting, diarrhea, stomach cramps",General Physician,Adult,63,182,10,5,Yes
+Tension Headache,"Dull, aching head pain, tightness in scalp",General Physician,Child,23,137,0,4,No
+Anxiety Attack,"Rapid heartbeat, sweating, trembling, shortness of breath",Psychiatrist / GP,Child,36,122,0,0,No
+Sinusitis,"Facial pressure, stuffy nose, headache, thick nasal mucus",ENT Specialist,Adult,94,163,3,4,Yes
+Constipation,"Infrequent bowel movements, straining, hard stools",General Physician,Child,27,107,0,0,No
+Migraine,"Throbbing headache, nausea, sensitivity to light",Neurologist,Adult,87,165,10,0,No
+Anxiety Attack,"Rapid heartbeat, sweating, trembling, shortness of breath",Psychiatrist / GP,Adult,87,175,2,2,No
+Urinary Tract Infection (UTI),"Painful urination, frequent urge to urinate",Urologist/General Physician,Teenager,64,152,0,3,No
+Acid Reflux (GERD),"Heartburn, chest pain, regurgitation, sore throat",Gastroenterologist,Teenager,53,166,0,5,No
+Vitamin D Deficiency,"Bone pain, muscle weakness, fatigue, mood changes",General Physician,Child,39,118,0,1,No
+Insomnia,"Difficulty falling asleep, waking up often, feeling tired",General Physician,Child,22,114,0,0,No
+Indigestion,"Bloating, gas, heartburn, feeling full quickly",Gastroenterologist,Adult,67,168,7,1,Yes
+Digital Eye Strain,"Dry eyes, blurred vision, headaches, neck and shoulder pain",Ophthalmologist,Adult,80,161,6,1,No
+Strep Throat,"Severe sore throat, pain when swallowing, fever, red tonsils",General Physician,Child,31,120,0,1,No
+Vitamin D Deficiency,"Bone pain, muscle weakness, fatigue, mood changes",General Physician,Adult,77,165,5,1,No
+Gastroenteritis,"Nausea, vomiting, diarrhea, stomach cramps",General Physician,Child,16,105,0,2,No
+Indigestion,"Bloating, gas, heartburn, feeling full quickly",Gastroenterologist,Child,36,135,0,5,No
+Strep Throat,"Severe sore throat, pain when swallowing, fever, red tonsils",General Physician,Teenager,59,153,0,2,No
+Urinary Tract Infection (UTI),"Painful urination, frequent urge to urinate",Urologist/General Physician,Teenager,53,150,0,3,No
+Insomnia,"Difficulty falling asleep, waking up often, feeling tired",General Physician,Adult,58,171,0,3,Yes
+Indigestion,"Bloating, gas, heartburn, feeling full quickly",Gastroenterologist,Adult,93,183,10,4,Yes
+Digital Eye Strain,"Dry eyes, blurred vision, headaches, neck and shoulder pain",Ophthalmologist,Child,26,128,0,0,No
+Conjunctivitis (Pink Eye),"Redness in the eye, itching, discharge",Ophthalmologist,Child,17,131,0,5,No
+Sinusitis,"Facial pressure, stuffy nose, headache, thick nasal mucus",ENT Specialist,Teenager,61,154,0,5,No
+Gastroenteritis,"Nausea, vomiting, diarrhea, stomach cramps",General Physician,Child,24,139,0,0,No
+Indigestion,"Bloating, gas, heartburn, feeling full quickly",Gastroenterologist,Teenager,65,158,0,2,No
+Conjunctivitis (Pink Eye),"Redness in the eye, itching, discharge",Ophthalmologist,Adult,73,165,2,5,No
+Anxiety Attack,"Rapid heartbeat, sweating, trembling, shortness of breath",Psychiatrist / GP,Child,28,126,0,2,No
+Strep Throat,"Severe sore throat, pain when swallowing, fever, red tonsils",General Physician,Child,22,132,0,5,No
+Menstrual Cramps,"Lower abdominal pain, bloating, backache",Gynecologist,Child,40,107,0,1,No
+Acid Reflux (GERD),"Heartburn, chest pain, regurgitation, sore throat",Gastroenterologist,Adult,65,165,5,0,No
+Tinea (Fungal Infection),"Itchy, red, circular rash on skin, peeling skin",Dermatologist,Teenager,69,163,0,3,No
+Vitamin D Deficiency,"Bone pain, muscle weakness, fatigue, mood changes",General Physician,Teenager,54,151,0,3,No
+Tonsillitis,"Swollen tonsils, sore throat, difficulty swallowing, fever",ENT Specialist / GP,Child,25,106,0,3,No
+Benign Positional Vertigo,"Dizziness, spinning sensation (vertigo), loss of balance, nausea",ENT Specialist / Neurologist,Teenager,58,173,0,5,No
+Common Cold,"Runny nose, sneezing, sore throat, cough",General Physician,Child,27,124,0,4,No
+Toothache / Dental Cavity,"Sharp or throbbing pain in tooth, sensitivity to hot/cold",Dentist,Adult,67,187,10,1,No
+Acute Gastritis,"Upset stomach, indigestion, abdominal pain, nausea, hiccups",Gastroenterologist,Teenager,63,148,0,0,No
+Benign Positional Vertigo,"Dizziness, spinning sensation (vertigo), loss of balance, nausea",ENT Specialist / Neurologist,Adult,64,160,5,4,No
+Digital Eye Strain,"Dry eyes, blurred vision, headaches, neck and shoulder pain",Ophthalmologist,Teenager,63,167,0,1,No
+Constipation,"Infrequent bowel movements, straining, hard stools",General Physician,Adult,67,170,5,4,No
+Insomnia,"Difficulty falling asleep, waking up often, feeling tired",General Physician,Teenager,59,148,0,2,No
+Eczema (Atopic Dermatitis),"Dry, itchy skin, red patches, small raised bumps",Dermatologist,Adult,63,176,3,4,No
+Allergic Rhinitis,"Sneezing, itchy nose, watery eyes, congestion",Allergist/Immunologist,Child,31,111,0,5,No
+Benign Positional Vertigo,"Dizziness, spinning sensation (vertigo), loss of balance, nausea",ENT Specialist / Neurologist,Teenager,55,174,0,3,No
+Iron-Deficiency Anemia,"Fatigue, weakness, pale skin, shortness of breath, headache",General Physician,Child,20,100,0,4,No
+Tinea (Fungal Infection),"Itchy, red, circular rash on skin, peeling skin",Dermatologist,Adult,89,166,9,5,Yes
+Common Cold,"Runny nose, sneezing, sore throat, cough",General Physician,Child,17,123,0,1,No
+Conjunctivitis (Pink Eye),"Redness in the eye, itching, discharge",Ophthalmologist,Child,24,136,0,4,No
+Conjunctivitis (Pink Eye),"Redness in the eye, itching, discharge",Ophthalmologist,Adult,89,189,0,2,No
+Urinary Tract Infection (UTI),"Painful urination, frequent urge to urinate",Urologist/General Physician,Child,40,130,0,3,No
+Tonsillitis,"Swollen tonsils, sore throat, difficulty swallowing, fever",ENT Specialist / GP,Teenager,54,173,0,5,No
+Conjunctivitis (Pink Eye),"Redness in the eye, itching, discharge",Ophthalmologist,Adult,93,171,4,4,No
+Tinea (Fungal Infection),"Itchy, red, circular rash on skin, peeling skin",Dermatologist,Adult,82,163,0,4,No
+Sinusitis,"Facial pressure, stuffy nose, headache, thick nasal mucus",ENT Specialist,Adult,74,187,10,1,No
+Tension Headache,"Dull, aching head pain, tightness in scalp",General Physician,Teenager,58,171,0,3,No
+Tension Headache,"Dull, aching head pain, tightness in scalp",General Physician,Teenager,63,174,0,5,No
+Acute Gastritis,"Upset stomach, indigestion, abdominal pain, nausea, hiccups",Gastroenterologist,Teenager,66,163,0,3,No
+Menstrual Cramps,"Lower abdominal pain, bloating, backache",Gynecologist,Teenager,64,167,0,4,No
+Indigestion,"Bloating, gas, heartburn, feeling full quickly",Gastroenterologist,Child,34,126,0,3,No
+Dengue Fever,"High fever, severe headache, joint and muscle pain, rash, pain behind eyes",General Physician,Adult,73,170,8,1,No
+Acute Gastritis,"Upset stomach, indigestion, abdominal pain, nausea, hiccups",Gastroenterologist,Child,40,139,0,1,No
+Digital Eye Strain,"Dry eyes, blurred vision, headaches, neck and shoulder pain",Ophthalmologist,Teenager,62,154,0,2,No
+Sinusitis,"Facial pressure, stuffy nose, headache, thick nasal mucus",ENT Specialist,Child,38,117,0,3,No
+Ankle Sprain,"Pain, swelling, bruising, inability to put weight on the ankle",Orthopedist / Physiotherapist,Teenager,63,148,0,5,No
+Conjunctivitis (Pink Eye),"Redness in the eye, itching, discharge",Ophthalmologist,Child,20,125,0,2,No
+Dengue Fever,"High fever, severe headache, joint and muscle pain, rash, pain behind eyes",General Physician,Teenager,55,154,0,3,No
+Acid Reflux (GERD),"Heartburn, chest pain, regurgitation, sore throat",Gastroenterologist,Child,30,125,0,3,No
+Constipation,"Infrequent bowel movements, straining, hard stools",General Physician,Child,26,101,0,2,No
+Conjunctivitis (Pink Eye),"Redness in the eye, itching, discharge",Ophthalmologist,Child,15,128,0,1,No
+Urinary Tract Infection (UTI),"Painful urination, frequent urge to urinate",Urologist/General Physician,Child,21,112,0,3,No
+Conjunctivitis (Pink Eye),"Redness in the eye, itching, discharge",Ophthalmologist,Adult,80,179,7,2,No
+Anxiety Attack,"Rapid heartbeat, sweating, trembling, shortness of breath",Psychiatrist / GP,Child,37,115,0,3,No
+Acid Reflux (GERD),"Heartburn, chest pain, regurgitation, sore throat",Gastroenterologist,Child,37,125,0,5,No
+Iron-Deficiency Anemia,"Fatigue, weakness, pale skin, shortness of breath, headache",General Physician,Adult,87,173,4,3,Yes
+Urinary Tract Infection (UTI),"Painful urination, frequent urge to urinate",Urologist/General Physician,Teenager,67,169,0,5,No
+Benign Positional Vertigo,"Dizziness, spinning sensation (vertigo), loss of balance, nausea",ENT Specialist / Neurologist,Adult,65,173,2,3,No
+Common Cold,"Runny nose, sneezing, sore throat, cough",General Physician,Child,22,100,0,5,No
+Acid Reflux (GERD),"Heartburn, chest pain, regurgitation, sore throat",Gastroenterologist,Adult,86,170,4,5,No
+Toothache / Dental Cavity,"Sharp or throbbing pain in tooth, sensitivity to hot/cold",Dentist,Teenager,68,171,0,0,No
+Insomnia,"Difficulty falling asleep, waking up often, feeling tired",General Physician,Child,37,109,0,0,No
+Tonsillitis,"Swollen tonsils, sore throat, difficulty swallowing, fever",ENT Specialist / GP,Child,23,130,0,3,No
+Toothache / Dental Cavity,"Sharp or throbbing pain in tooth, sensitivity to hot/cold",Dentist,Teenager,69,152,0,0,No
+Ankle Sprain,"Pain, swelling, bruising, inability to put weight on the ankle",Orthopedist / Physiotherapist,Teenager,69,152,0,4,No
+Tension Headache,"Dull, aching head pain, tightness in scalp",General Physician,Teenager,52,156,0,3,No
+Acid Reflux (GERD),"Heartburn, chest pain, regurgitation, sore throat",Gastroenterologist,Teenager,56,145,0,2,No
+Vitamin D Deficiency,"Bone pain, muscle weakness, fatigue, mood changes",General Physician,Adult,60,162,9,2,Yes
+Allergic Rhinitis,"Sneezing, itchy nose, watery eyes, congestion",Allergist/Immunologist,Child,30,103,0,3,No
+Benign Positional Vertigo,"Dizziness, spinning sensation (vertigo), loss of balance, nausea",ENT Specialist / Neurologist,Teenager,54,166,0,4,No
+Tonsillitis,"Swollen tonsils, sore throat, difficulty swallowing, fever",ENT Specialist / GP,Teenager,56,149,0,0,No
+Menstrual Cramps,"Lower abdominal pain, bloating, backache",Gynecologist,Teenager,52,153,0,2,No
+Anxiety Attack,"Rapid heartbeat, sweating, trembling, shortness of breath",Psychiatrist / GP,Adult,65,170,8,2,No
+Tinea (Fungal Infection),"Itchy, red, circular rash on skin, peeling skin",Dermatologist,Child,22,133,0,3,No
+Vitamin D Deficiency,"Bone pain, muscle weakness, fatigue, mood changes",General Physician,Adult,99,164,4,3,No
+Eczema (Atopic Dermatitis),"Dry, itchy skin, red patches, small raised bumps",Dermatologist,Child,31,119,0,5,No
+Dengue Fever,"High fever, severe headache, joint and muscle pain, rash, pain behind eyes",General Physician,Adult,68,160,10,2,Yes
+Sinusitis,"Facial pressure, stuffy nose, headache, thick nasal mucus",ENT Specialist,Child,20,107,0,0,No
+Dengue Fever,"High fever, severe headache, joint and muscle pain, rash, pain behind eyes",General Physician,Teenager,67,161,0,3,No
+Allergic Rhinitis,"Sneezing, itchy nose, watery eyes, congestion",Allergist/Immunologist,Adult,66,190,8,4,No
+Benign Positional Vertigo,"Dizziness, spinning sensation (vertigo), loss of balance, nausea",ENT Specialist / Neurologist,Teenager,58,153,0,1,No
+Acid Reflux (GERD),"Heartburn, chest pain, regurgitation, sore throat",Gastroenterologist,Adult,88,182,10,2,No
+Common Cold,"Runny nose, sneezing, sore throat, cough",General Physician,Adult,93,175,8,1,No
+Food Poisoning,"Nausea, vomiting, diarrhea, stomach cramps, fever",General Physician,Teenager,65,168,0,1,No
+Menstrual Cramps,"Lower abdominal pain, bloating, backache",Gynecologist,Adult,84,158,1,5,Yes
+Benign Positional Vertigo,"Dizziness, spinning sensation (vertigo), loss of balance, nausea",ENT Specialist / Neurologist,Child,20,117,0,3,No
+Gastroenteritis,"Nausea, vomiting, diarrhea, stomach cramps",General Physician,Child,16,107,0,1,No
+Influenza (Flu),"Fever, body aches, headache, fatigue, cough",General Physician,Child,16,100,0,1,No
+Tinea (Fungal Infection),"Itchy, red, circular rash on skin, peeling skin",Dermatologist,Child,15,139,0,4,No
+Dehydration,"Thirst, dry mouth, infrequent urination, fatigue, headache",General Physician,Adult,74,170,3,0,No
+Common Cold,"Runny nose, sneezing, sore throat, cough",General Physician,Teenager,64,145,0,5,No
+Tension Headache,"Dull, aching head pain, tightness in scalp",General Physician,Child,16,138,0,4,No
+Menstrual Cramps,"Lower abdominal pain, bloating, backache",Gynecologist,Teenager,53,165,0,3,No
+Strep Throat,"Severe sore throat, pain when swallowing, fever, red tonsils",General Physician,Child,37,101,0,2,No
+Dehydration,"Thirst, dry mouth, infrequent urination, fatigue, headache",General Physician,Child,25,114,0,3,No
+Iron-Deficiency Anemia,"Fatigue, weakness, pale skin, shortness of breath, headache",General Physician,Teenager,48,147,0,4,No
+Muscle Strain,"Sudden pain, soreness, limited range of motion, swelling",Physiotherapist / GP,Child,31,111,0,3,No
+Muscle Strain,"Sudden pain, soreness, limited range of motion, swelling",Physiotherapist / GP,Child,39,130,0,3,No
+Acid Reflux (GERD),"Heartburn, chest pain, regurgitation, sore throat",Gastroenterologist,Adult,90,175,4,3,No
+Anxiety Attack,"Rapid heartbeat, sweating, trembling, shortness of breath",Psychiatrist / GP,Adult,65,171,7,5,Yes
+Anxiety Attack,"Rapid heartbeat, sweating, trembling, shortness of breath",Psychiatrist / GP,Adult,77,186,1,5,Yes
+Digital Eye Strain,"Dry eyes, blurred vision, headaches, neck and shoulder pain",Ophthalmologist,Child,25,140,0,0,No
+Constipation,"Infrequent bowel movements, straining, hard stools",General Physician,Child,37,131,0,2,No
+Migraine,"Throbbing headache, nausea, sensitivity to light",Neurologist,Teenager,48,160,0,1,No
+Dehydration,"Thirst, dry mouth, infrequent urination, fatigue, headache",General Physician,Adult,71,164,10,1,No
+Constipation,"Infrequent bowel movements, straining, hard stools",General Physician,Adult,77,159,5,3,No
+Vitamin D Deficiency,"Bone pain, muscle weakness, fatigue, mood changes",General Physician,Teenager,49,161,0,0,No
+Strep Throat,"Severe sore throat, pain when swallowing, fever, red tonsils",General Physician,Teenager,60,154,0,3,No
+Sinusitis,"Facial pressure, stuffy nose, headache, thick nasal mucus",ENT Specialist,Adult,78,156,1,0,No
+Indigestion,"Bloating, gas, heartburn, feeling full quickly",Gastroenterologist,Teenager,68,150,0,1,No
+Insomnia,"Difficulty falling asleep, waking up often, feeling tired",General Physician,Adult,66,164,5,1,No
+Tension Headache,"Dull, aching head pain, tightness in scalp",General Physician,Teenager,50,157,0,4,No
+Insomnia,"Difficulty falling asleep, waking up often, feeling tired",General Physician,Teenager,55,174,0,4,No
+Tension Headache,"Dull, aching head pain, tightness in scalp",General Physician,Teenager,48,148,0,1,No
+Urinary Tract Infection (UTI),"Painful urination, frequent urge to urinate",Urologist/General Physician,Teenager,50,171,0,4,No
+Allergic Rhinitis,"Sneezing, itchy nose, watery eyes, congestion",Allergist/Immunologist,Child,32,119,0,5,No
+Iron-Deficiency Anemia,"Fatigue, weakness, pale skin, shortness of breath, headache",General Physician,Teenager,51,157,0,5,No
+Benign Positional Vertigo,"Dizziness, spinning sensation (vertigo), loss of balance, nausea",ENT Specialist / Neurologist,Adult,67,168,8,1,No
+Gastroenteritis,"Nausea, vomiting, diarrhea, stomach cramps",General Physician,Child,33,134,0,5,No
+Insomnia,"Difficulty falling asleep, waking up often, feeling tired",General Physician,Adult,92,162,9,4,No
+Allergic Rhinitis,"Sneezing, itchy nose, watery eyes, congestion",Allergist/Immunologist,Adult,92,173,7,3,No
+Conjunctivitis (Pink Eye),"Redness in the eye, itching, discharge",Ophthalmologist,Child,19,135,0,5,No
+Muscle Strain,"Sudden pain, soreness, limited range of motion, swelling",Physiotherapist / GP,Child,34,122,0,4,No
+Tonsillitis,"Swollen tonsils, sore throat, difficulty swallowing, fever",ENT Specialist / GP,Teenager,68,149,0,0,No
+Acute Gastritis,"Upset stomach, indigestion, abdominal pain, nausea, hiccups",Gastroenterologist,Adult,55,159,0,4,Yes
+Toothache / Dental Cavity,"Sharp or throbbing pain in tooth, sensitivity to hot/cold",Dentist,Child,20,122,0,3,No

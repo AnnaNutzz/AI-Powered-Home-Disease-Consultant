@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Follow-up Questions</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="page">
+    <header class="hero small">
+      <div class="hero-inner">
+        <h1>Follow-up Questions</h1>
+        <p class="subtitle">Answer these to improve the AI diagnosis</p>
+      </div>
+    </header>
+
+    <main class="container">
+      <div class="card">
+        <strong>Initial predictions (top 3):</strong>
+        <ul>
+          {% for c in candidates %}
+          <li>{{ c.disease }} — {{ c.prob }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <form action="/finalize" method="POST" class="form-card">
+        <!-- hidden original values -->
+        <input type="hidden" name="symptoms" value="{{ symptoms }}">
+        <input type="hidden" name="age" value="{{ age }}">
+        <input type="hidden" name="weight" value="{{ weight }}">
+        <input type="hidden" name="smoker" value="{{ smoker }}">
+
+        <!-- render questions array -->
+        {% for q in questions %}
+          <label for="{{ q.name }}">{{ q.q }}</label>
+
+          {% if q.type == 'yesno' %}
+            <select id="{{ q.name }}" name="{{ q.name }}">
+              <option>No</option>
+              <option>Yes</option>
+            </select>
+
+          {% elif q.type == 'scale' %}
+            <input id="{{ q.name }}" name="{{ q.name }}" type="number" min="{{ q.min }}" max="{{ q.max }}" value="{{ q.min }}" required>
+
+          {% elif q.type == 'number' %}
+            <input id="{{ q.name }}" name="{{ q.name }}" type="number" min="0" step="1">
+
+          {% else %}
+            <input id="{{ q.name }}" name="{{ q.name }}" type="text">
+          {% endif %}
+        {% endfor %}
+
+        <button type="submit" class="btn">See final diagnosis</button>
+      </form>
+    </main>
+  </div>
+</body>
+</html>

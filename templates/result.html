@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Diagnosis Results</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="page">
+    <header class="hero small">
+      <div class="hero-inner">
+        <h1>Final Diagnosis</h1>
+        <p class="subtitle">Top likely diagnoses after follow-ups</p>
+      </div>
+    </header>
+
+    <main class="container">
+      <div class="summary">
+        <strong>Model accuracy (trained):</strong> {{ accuracy }}
+      </div>
+
+      {% for r in results %}
+      <div class="card">
+        <div class="card-head">
+          <h2>{{ r.disease }}</h2>
+          <span class="prob">{{ r.probability }}</span>
+        </div>
+        <div class="card-body">
+          <p><strong>Suggested specialist:</strong> {{ r.doctor }}</p>
+          {% if r.remedies %}
+            <div class="remedies">
+              <strong>Home remedies:</strong>
+              <ul>
+                {% for item in r.remedies %}
+                  <li>{{ item }}</li>
+                {% endfor %}
+              </ul>
+            </div>
+          {% endif %}
+        </div>
+      </div>
+      {% endfor %}
+
+      <div class="actions">
+        <a href="{{ maps_query }}" target="_blank" class="btn">Find {{ specialty }} near me (Google Maps)</a>
+        <a href="/" class="btn outline">New consultation</a>
+      </div>
+    </main>
+  </div>
+</body>
+</html>
