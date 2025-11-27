@@ -1,3 +1,24 @@
+"""
+------------------------------------------------------------------------------
+PROJECT: AI-Powered-Home-Disease-Consultant-using-Fuzzy-Logic-and-Machine-Learning
+------------------------------------------------------------------------------
+AUTHOR: Ahana Kaur
+DATE:    November 17, 2025
+COURSE:  Soft Computing Lab and AI in Healthcare (End Term Project)
+INSTITUTION: Bennett University
+
+COPYRIGHT & LICENSE:
+Copyright (c) 2025 by the Authors listed above. All Rights Reserved.
+
+This software was developed exclusively for academic assessment purposes.
+Unauthorized commercial use, redistribution, or publication of this code
+without the express written consent of the authors is strictly prohibited.
+
+DESCRIPTION:
+main app file to run the program
+------------------------------------------------------------------------------
+"""
+
 '''
 AI Disease Symptom Checker 🩺
 
