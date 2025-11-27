@@ -15,7 +15,7 @@ Unauthorized commercial use, redistribution, or publication of this code
 without the express written consent of the authors is strictly prohibited.
 
 DESCRIPTION:
-main app file to run the program
+main app file to run the program [old]
 ------------------------------------------------------------------------------
 """
 
